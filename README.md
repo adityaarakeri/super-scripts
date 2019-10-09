@@ -7,7 +7,7 @@ a list of super awesome scripts which help automate the boring tasks
 ## So far added
 | Script | Contributor|
 |--|--|
-|[file-encrypt-decrypt](https://github.com/adityaarakeri/super-scripts/tree/master/file_encrypt_decrypt) | [Adi](https://github.com/adityaarakeri) |
+|[file_encrypt_decrypt](https://github.com/adityaarakeri/super-scripts/tree/master/file_encrypt_decrypt) | [Adi](https://github.com/adityaarakeri) |
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
