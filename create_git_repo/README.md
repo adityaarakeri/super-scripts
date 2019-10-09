@@ -14,7 +14,7 @@ You can also make it global by including it in `.bashrc` as a
 function.
 
 ```sh
-$ repo.sh your-repo-name repo-description private
+$ sh repo.sh your-repo-name repo-description private
 ```
 
 ![Preview](https://ahmadbilal.dev/wp-content/uploads/2019/04/run-2.png)
