@@ -1,7 +1,7 @@
 # Application Opener
 ## Overview:
 
-This is a script to open my usually applications on PC startup. It just saves me a few clicks whenever I restart my PC.
+This is a script to open my usual applications on PC startup. It just saves me a few clicks whenever I restart my PC.
 
 ## Why would you find that useful?
 
