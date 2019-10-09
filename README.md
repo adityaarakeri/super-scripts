@@ -2,7 +2,7 @@
 
 
 ## whats in this repo?
-a list of super awesome script which help automate the boring tasks
+a list of super awesome scripts which help automate the boring tasks
 
 ## So far added
 | Script | Contributor|
@@ -11,6 +11,7 @@ a list of super awesome script which help automate the boring tasks
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
+- The script can be in any language
 - Script and folder naming convention (Use underscore only) 
 	- :x: Script Name
 	- :x: Folder-Name
