@@ -8,17 +8,18 @@ a list of super awesome scripts which help automate the boring tasks
 | Script | Contributor|
 |--|--|
 |[file_encrypt_decrypt](https://github.com/adityaarakeri/super-scripts/tree/master/file_encrypt_decrypt) | [Adi](https://github.com/adityaarakeri) |
+|[create_git_repo](https://github.com/adityaarakeri/super-scripts/tree/master/create_git_repo) | [Ahmad Bilal](https://github.com/ahmadbilaldev) |
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
 - The script can be in any language
-- Script and folder naming convention (Use underscore only) 
+- Script and folder naming convention (Use underscore only)
 	- :x: Script Name
 	- :x: Folder-Name
 	- :heavy_check_mark: script_name
 	- :heavy_check_mark: folder_name
 - The Folder should contain the followings -
-	- Main Script, 
+	- Main Script,
 	- Supporting files for the script
 	- A separate `README.md` File with proper documentation.
 
