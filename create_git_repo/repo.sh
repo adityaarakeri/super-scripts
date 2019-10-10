@@ -8,7 +8,7 @@ echo "Creating repository"
 gh re --new "$NAME" --description "$DSC" --type "$TYPE"
 gh re --clone --repo "$NAME"
 
-gti add .
+git add .
 git commit -m "📦 NEW: First commit"
 git push
 
