@@ -9,6 +9,7 @@ a list of super awesome scripts which help automate the boring tasks
 |--|--|
 |[file_encrypt_decrypt](https://github.com/adityaarakeri/super-scripts/tree/master/file_encrypt_decrypt) | [Adi](https://github.com/adityaarakeri) |
 |[app_opener](https://github.com/adityaarakeri/super-scripts/tree/master/app_opener) | [U-ways](https://github.com/U-ways)
+|[auto_mail_sender](https://github.com/adityaarakeri/super-scripts/tree/master/auto_mail_sender) | [Arkadip](https://github.com/darkmatter18)
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
