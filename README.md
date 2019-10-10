@@ -10,7 +10,7 @@ a list of super awesome scripts which help automate the boring tasks
 |[file_encrypt_decrypt](https://github.com/adityaarakeri/super-scripts/tree/master/file_encrypt_decrypt) | [Adi](https://github.com/adityaarakeri) |
 |[app_opener](https://github.com/adityaarakeri/super-scripts/tree/master/app_opener) | [U-ways](https://github.com/U-ways) |
 | [ad_change_check](https://github.com/adityaarakeri/super-scripts/tree/master/ad_change_check) | [jscooksey](https://github.com/jscooksey)
-
+|[video_length_calculator](https://github.com/adityaarakeri/super-scripts/tree/master/video_length_calculator) | [ali-abz](https://github.com/ali-abz) |
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
 - The script can be in any language
