@@ -8,6 +8,7 @@ a list of super awesome scripts which help automate the boring tasks
 | Script | Contributor|
 |--|--|
 |[file_encrypt_decrypt](https://github.com/adityaarakeri/super-scripts/tree/master/file_encrypt_decrypt) | [Adi](https://github.com/adityaarakeri) |
+|[app_opener](https://github.com/adityaarakeri/super-scripts/tree/master/app_opener) | [U-ways](https://github.com/U-ways)
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
