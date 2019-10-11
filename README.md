@@ -1,8 +1,8 @@
 # Super Awesome Scripts 😎
 
 
-## whats in this repo?
-a list of super awesome scripts which help automate the boring tasks
+## What's in this repo?
+A list of super awesome scripts which help automate the boring tasks.
 
 ## So far added
 | Script | Contributor|
@@ -12,6 +12,11 @@ a list of super awesome scripts which help automate the boring tasks
 | [ad_change_check](https://github.com/adityaarakeri/super-scripts/tree/master/ad_change_check) | [jscooksey](https://github.com/jscooksey)
 | [folder_autosync](https://github.com/adityaarakeri/super-scripts/tree/master/folder_autosync) | [szhou42](https://github.com/szhou42)
 | [terminal_pastebin](https://github.com/adityaarakeri/super-scripts/tree/master/terminal_pastebin) | [szhou42](https://github.com/szhou42)
+|[video_length_calculator](https://github.com/adityaarakeri/super-scripts/tree/master/video_length_calculator) | [ali-abz](https://github.com/ali-abz) |
+| [arch_linux](https://github.com/adityaarakeri/super-scripts/tree/master/arch_linux) | [crouther](https://github.com/crouther)
+| [wifi_to_eth](https://github.com/adityaarakeri/super-scripts/tree/master/wifi_to_eth) | [crouther](https://github.com/crouther
+|[file_finder](https://github.com/adityaarakeri/super-scripts/tree/master/file_finder) | [poszy](https://github.com/poszy) |
+| [makere](https://github.com/adityaarakeri/super-scripts/tree/master/makere) | [aksJain0](https://github.com/aksJain0)
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
@@ -21,9 +26,9 @@ a list of super awesome scripts which help automate the boring tasks
 	- :x: Folder-Name
 	- :heavy_check_mark: script_name
 	- :heavy_check_mark: folder_name
-- The Folder should contain the followings -
+- The folder should contain the followings -
 	- Main Script, 
 	- Supporting files for the script
-	- A separate `README.md` File with proper documentation.
+	- A separate `README.md` file with proper documentation.
 
 **note**: feel free to add your project to the list of scripts
