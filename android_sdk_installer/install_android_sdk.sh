@@ -6,12 +6,8 @@ tmp_dir="/tmp/tmp.xQeqWI4DYD"
 base_dir="$HOME/.local/opt"
 profile_file="$HOME/.profile"
 
-platform_version="29"
-build_tools_version="29.0.2"
-
 avd_name="Nexus"
 avd_device="Nexus 5X"
-avd_image="system-images;android-$platform_version;google_apis;x86_64"
 
 ANDROID_SDK_ROOT=$base_dir/android_sdk
 ANDROID_HOME=$ANDROID_SDK_ROOT
@@ -33,19 +29,31 @@ then
 fi
 
 echo ">>> Downloading the tools"
-# wget \
-# https://dl.google.com/android/repository/sdk-tools-linux-4333796.zip \
-# -P $tmp_dir
+wget \
+https://dl.google.com/android/repository/sdk-tools-linux-4333796.zip \
+-P $tmp_dir
 
 echo ">>> Unpacking the tools"
 unzip \
 "$tmp_dir/sdk-tools-linux-4333796.zip" \
 -d $ANDROID_SDK_ROOT
 
+platform=$($ANDROID_SDK_ROOT/tools/bin/sdkmanager --list \
+| grep platforms \
+| awk '{ print $1 }' \
+| LC_ALL=C sort -k 2 -t '-' -g \
+| tail -n 1)
+build_tools=$($ANDROID_SDK_ROOT/tools/bin/sdkmanager --list \
+| grep build-tools \
+| awk '{ print $1 }' \
+| LC_ALL=C sort -k 2 -t '-' -g \
+| tail -n 1)
+avd_image="system-images;android-$(echo $platform | awk -F - '{ print $2 }');google_apis;x86_64"
+
 echo ">>> Installing the SDK"
 yes | $ANDROID_SDK_ROOT/tools/bin/sdkmanager \
 "platforms;android-$platform_version" \
-"build-tools;$build_tools_version" \
+"$build_tools" \
 "$avd_image" \
 'platform-tools' \
 'ndk-bundle'
