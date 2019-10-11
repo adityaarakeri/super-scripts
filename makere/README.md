@@ -23,7 +23,7 @@ Finally we merge all the intermediate regex forms of all the strings.
 
 
 ## System Requirements
-*Python2
+*Python(2/3)
 
 ## Getting Started
 Navigate to the root directory of the repo . Then run the following bash command to install library

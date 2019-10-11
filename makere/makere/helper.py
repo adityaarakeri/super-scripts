@@ -1,3 +1,4 @@
+from builtins import range
 import re
 # Integer number represent priority of pattern 
 BASE_PATTERN_LABELS = ['a-z', 'A-Z', '0-9' ]
@@ -66,8 +67,6 @@ def get_bigger(exp1, exp2):
         raise Exception ('Any one of the striing should have been exausted')
     
             
-
-
 def union(exp1, exp2):
     if exp1 == exp2 :
         return exp1
@@ -83,10 +82,10 @@ def union(exp1, exp2):
         return get_bigger(exp1, exp2)
 
 def raw_string(s):
-    if isinstance(s, str):
-        s = s.encode('string-escape')
-    elif isinstance(s, unicode):
-        s = s.encode('unicode-escape')
+    # if isinstance(s, str):
+    #     s = s.encode('string-escape')
+    # elif isinstance(s, unicode):
+    s = s.encode('unicode-escape')
     return s
 
 def concat (lst):
