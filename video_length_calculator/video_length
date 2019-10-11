@@ -1,0 +1,17 @@
+#!/bin/sh
+
+sum=0
+
+for filename in *.mp4
+do
+    lenth=$(ffprobe -v error -show_format -show_streams "$filename" | grep "duration=" | cut -d"=" -f 2 | tail -n1)
+    echo "video: $filename"
+    echo "lenth: $lenth"
+    sum=$(echo "$sum+$lenth" | bc -l)
+done
+
+# remove decimal point
+sum=$(echo $sum | cut -f1 -d".")
+
+# final result
+echo "total: $sum seconds, or $(echo "$sum/60" | bc -l) minutes, or $(echo "$sum/3600" | bc -l) hours)"
