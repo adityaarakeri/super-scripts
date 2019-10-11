@@ -15,6 +15,7 @@ a list of super awesome scripts which help automate the boring tasks
 | [arch_linux](https://github.com/adityaarakeri/super-scripts/tree/master/arch_linux) | [crouther](https://github.com/crouther)
 | [wifi_to_eth](https://github.com/adityaarakeri/super-scripts/tree/master/wifi_to_eth) | [crouther](https://github.com/crouther)
 |[android_sdk_installer](https://github.com/adityaarakeri/super-scripts/tree/master/android_sdk_installer) | [glacion](https://github.com/glacion)
+
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
 - The script can be in any language
