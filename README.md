@@ -13,9 +13,9 @@ A list of super awesome scripts which help automate the boring tasks.
 | [folder_autosync](https://github.com/adityaarakeri/super-scripts/tree/master/folder_autosync) | [szhou42](https://github.com/szhou42)
 |[video_length_calculator](https://github.com/adityaarakeri/super-scripts/tree/master/video_length_calculator) | [ali-abz](https://github.com/ali-abz) |
 | [arch_linux](https://github.com/adityaarakeri/super-scripts/tree/master/arch_linux) | [crouther](https://github.com/crouther)
-| [wifi_to_eth](https://github.com/adityaarakeri/super-scripts/tree/master/wifi_to_eth) | [crouther](https://github.com/crouther)
+| [wifi_to_eth](https://github.com/adityaarakeri/super-scripts/tree/master/wifi_to_eth) | [crouther](https://github.com/crouther
+|[file_finder](https://github.com/adityaarakeri/super-scripts/tree/master/file_finder) | [poszy](https://github.com/poszy) |
 | [makere](https://github.com/adityaarakeri/super-scripts/tree/master/makere) | [aksJain0](https://github.com/aksJain0)
-
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
