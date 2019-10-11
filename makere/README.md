@@ -16,7 +16,7 @@ So we will be grouping letters to basic regex classes which are as follows:
 * [0-9]
 * [A-Z]
 
-But this way we won't be able to fing common substrings, to resolve that issue,
+But this way we won't be able to find common substrings, to resolve that issue,
 we first find common stems in all the string of a user defined length and then classify.
 
 Finally we merge all the intermediate regex forms of all the strings.
