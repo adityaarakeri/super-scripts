@@ -14,7 +14,7 @@ a list of super awesome scripts which help automate the boring tasks
 |[video_length_calculator](https://github.com/adityaarakeri/super-scripts/tree/master/video_length_calculator) | [ali-abz](https://github.com/ali-abz) |
 | [arch_linux](https://github.com/adityaarakeri/super-scripts/tree/master/arch_linux) | [crouther](https://github.com/crouther)
 | [wifi_to_eth](https://github.com/adityaarakeri/super-scripts/tree/master/wifi_to_eth) | [crouther](https://github.com/crouther)
-
+| [rss_feeder](https://github.com/adityaarakeri/super-scripts/tree/master/rss_feeder) | [DarthBenro008](https://github.com/DarthBenro008)
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
 - The script can be in any language
