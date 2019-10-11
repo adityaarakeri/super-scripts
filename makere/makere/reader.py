@@ -1,5 +1,6 @@
+from builtins import object
 import os
-class Reader:
+class Reader(object):
 
     def __init__(self, source):
         if type(source) in [list, set, tuple, str]:
