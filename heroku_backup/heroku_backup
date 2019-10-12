@@ -1,0 +1,13 @@
+#!/bin/sh
+
+set -e
+
+read -r -p "Enter local database name: " local_db
+
+
+heroku pg:backups:capture --remote heroku
+heroku pg:backups:download --remote heroku
+
+pg_restore --verbose --clean --no-acl --no-owner -h localhost -d "$local_db" latest.dump
+
+rm latest.dump
