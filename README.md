@@ -30,4 +30,4 @@ A list of super awesome scripts which help automate the boring tasks.
 	- Supporting files for the script
 	- A separate `README.md` file with proper documentation.
 
-**note**: feel free to add your project to the list of scripts
+**note**: feel free to add your project to the list of scripts.
