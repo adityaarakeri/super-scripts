@@ -5,4 +5,5 @@ Script that copies emoji from emojis list
 
 ## Requirements
 
-- installed fzf
+- fzf
+- xclip
