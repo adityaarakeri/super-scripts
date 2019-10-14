@@ -1,4 +1,4 @@
-# File Organizer
+# :open_file_folder: File Organizer
 An automation for lazy people to organize their folder. Just run this scripts and **Voila!** your files will be grouped into folder based on their types :)
 
 ## How to run
@@ -17,3 +17,5 @@ For this version, the files will be grouped into these folders based on the file
 * Images (.jpg, .jpeg, .png)
 * Torrents (.torrent)
 * Others (Every format that hasn't been included above)
+
+#### It's time to tidy up that downloads folder!
