@@ -2,11 +2,11 @@
 
 ## Overview:
 
-This is a script is used to check if any changes have been made to listed Active Directory objects within the last 24 hours.
+This script is used to check if any changes have been made to listed Active Directory objects in the last 24 hours.
 
 ## Why would you find that useful?
 
-Generally used to alert if any changes have been made to critical group membership such as Domain Admins or Administrators
+Generally used to alert if any changes have been made to critical group membership such as Domain Admins or Administrators.
 
 ## How would you setup your own startup script?
 
