@@ -9,7 +9,7 @@ video = ['mp4','avi','3gp','mpg','mov','mkv','m4v','flv']
 audio = ['mp3','wav','ogg']
 
 def group_files(path,filename):
-    file_format = filename.split('.')[1]
+    file_format = filename.split('.')[1].lower()
     if file_format in docs:
         folder = 'Documents'
     elif file_format in torrent:
