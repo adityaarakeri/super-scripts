@@ -16,6 +16,7 @@ A list of super awesome scripts which help automate the boring tasks.
 | [wifi_to_eth](https://github.com/adityaarakeri/super-scripts/tree/master/wifi_to_eth) | [crouther](https://github.com/crouther)
 |[file_finder](https://github.com/adityaarakeri/super-scripts/tree/master/file_finder) | [poszy](https://github.com/poszy) |
 | [makere](https://github.com/adityaarakeri/super-scripts/tree/master/makere) | [aksJain0](https://github.com/aksJain0)
+|[loop_command](https://github.com/adityaarakeri/super-scripts/tree/master/loop_command) | [jeancsil](https://github.com/jeancsil)
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
