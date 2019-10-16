@@ -17,6 +17,7 @@ A list of super awesome scripts which help automate the boring tasks.
 |[file_finder](https://github.com/adityaarakeri/super-scripts/tree/master/file_finder) | [poszy](https://github.com/poszy) |
 | [makere](https://github.com/adityaarakeri/super-scripts/tree/master/makere) | [aksJain0](https://github.com/aksJain0)
 | [autofill_information](https://github.com/adityaarakeri/super-scripts/tree/master/autofill_information) | [pcube99](https://github.com/pcube99)
+|[raw_to_jpeg](https://github.com/adityaarakeri/super-scripts/tree/master/raw_to_jpeg) | [Sadeed](https://github.com/Sadeed)
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
