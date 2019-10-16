@@ -1,0 +1,1 @@
+the script tells if a number is prime or not
