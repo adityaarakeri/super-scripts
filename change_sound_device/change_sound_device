@@ -1,0 +1,5 @@
+@echo off
+set device=%1
+cd %~dp0
+nircmd setdefaultsounddevice %device% 1
+nircmd setdefaultsounddevice %device% 2
