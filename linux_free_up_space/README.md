@@ -1,5 +1,3 @@
-# AutoSync 
-
 ## Overview:
 
 This Script helps in freeing up space on Linux OS by deleting obsolete packages and kernels. 
