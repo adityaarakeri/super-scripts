@@ -1,4 +1,3 @@
-
 #!/usr/bin/python
 # Filename: build_barchart.py
 
