@@ -100,3 +100,4 @@ class GetSemester:
 print("Please wait, the process might take several minututes.")
 
 GetSemester("Business")
+
