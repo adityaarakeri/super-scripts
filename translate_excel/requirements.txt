@@ -1,0 +1,9 @@
+certifi==2019.9.11
+chardet==3.0.4
+et-xmlfile==1.0.1
+googletrans==2.4.0
+idna==2.8
+jdcal==1.4.1
+openpyxl==3.0.0
+requests==2.22.0
+urllib3==1.25.6
