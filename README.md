@@ -21,6 +21,7 @@ A list of super awesome scripts which help automate the boring tasks.
 |[raw_to_jpeg](https://github.com/adityaarakeri/super-scripts/tree/master/raw_to_jpeg) | [Sadeed](https://github.com/Sadeed)
 | [weather_in_a_city](https://github.com/adityaarakeri/super-scripts/tree/master/weather_in_a_city) | [vish1811](https://github.com/vish1811)
 | [Movie_Recommendation](https://github.com/adityaarakeri/super-scripts/tree/master/Movie_Recommendation) | [vish1811](https://github.com/vish1811)
+| [linux_free_up_space](https://github.com/vpatiltech/super-scripts/tree/vpatiltech/linux_free_up_space) | [V Patil](https://github.com/vpatiltech)
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
