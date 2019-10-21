@@ -16,10 +16,8 @@ A list of super awesome scripts which help automate the boring tasks.
 | [wifi_to_eth](https://github.com/adityaarakeri/super-scripts/tree/master/wifi_to_eth) | [crouther](https://github.com/crouther)
 |[file_finder](https://github.com/adityaarakeri/super-scripts/tree/master/file_finder) | [poszy](https://github.com/poszy) |
 | [makere](https://github.com/adityaarakeri/super-scripts/tree/master/makere) | [aksJain0](https://github.com/aksJain0)
-
 |[Sha1-brutefore](https://github.com/adityaarakeri/super-scripts/tree/master/Sha1-brutefore) | [nitish](https://github.com/nitishsai9) |
 |[portScanner](https://github.com/adityaarakeri/super-scripts/tree/master/portScanner) | [nitish](https://github.com/nitishsai9) |
-
 |[loop_command](https://github.com/adityaarakeri/super-scripts/tree/master/loop_command) | [jeancsil](https://github.com/jeancsil)
 | [autofill_information](https://github.com/adityaarakeri/super-scripts/tree/master/autofill_information) | [pcube99](https://github.com/pcube99)
 |[raw_to_jpeg](https://github.com/adityaarakeri/super-scripts/tree/master/raw_to_jpeg) | [Sadeed](https://github.com/Sadeed)
