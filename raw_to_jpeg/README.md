@@ -4,8 +4,11 @@ A script that uses ufraw to batch convert raw images into jpeg.
 
 ## Dependencies
 
+### [ufraw](ufraw.sourceforge.net)
+
+
 ```
-sudo apt install [ufraw](ufraw.sourceforge.net)
+sudo apt install ufraw
 ```
 
 ## Usage
