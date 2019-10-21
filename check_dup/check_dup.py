@@ -33,8 +33,8 @@ def checkPrompt(fiFo, path):
 					final = input("(Safe Delete) Are you sure you would like to delete {}? (y/n)\t".format(fi))
 				if final == "y":
 					# Remove from list AND dir
-					if os.path.exists(fi):
-  						os.remove(fi)
+					#if os.path.exists(fi):
+  						#os.remove(fi)
 					fiFo.remove(fi)
 	
 	# Don't check these files again
@@ -51,29 +51,41 @@ def checkDup(checkDir, dirdir):
 		# For dirpath, dirname, filenames in directory
 		for dp, dn, fn in os.walk(checkDir):
 			# For file in filenames
+			fiFound = []
 			for f in fn:
-				f.replace(" ","\ ")
 				pathF = dp + "/" + f
-				for dirpath, dirnames, filenames in os.walk(checkDir):
-					for pp in filenames:
-						pp.replace(" ", "\ ")
-						pathD = dirpath + "/" + pp
+				pathF1 = pathF.replace(" ", "\\ ")
+				if os.path.isfile(pathF):
+					if pathF in dontCheck:
+						continue
+					for dirpath, dirnames, filenames in os.walk(checkDir):
+						for pp in filenames:
+							pathD = dirpath + "/" + pp
+							pathD1 = pathD.replace(" ", "\\ ")
+							cmd = "diff {} {}".format(pathF1,pathD1)
+							if os.path.isfile(pathD):
+								k = subprocess.call(cmd, shell=True, stdout = subprocess.DEVNULL, stderr = subprocess.DEVNULL)
+								if k == 0:
+									fiFound.append(pathD)
+
+
+
+			if len(fiFound) > 1:
+				checkPrompt(fiFound, pathF)
 
 	else:
 		# Only the files directly in the directory
 		for files in os.listdir(checkDir):
 			fiFound = []
-			files1 = files.replace(" ","\\ ")
 			pathF = checkDir + "/" + files
-			pathF1 = checkDir + "/" + files1
+			pathF1 = pathF.replace(" ","\\ ")
 			if os.path.isfile(pathF):
 				if pathF in dontCheck:
 					continue
 				# Check files with themselves
 				for selif in os.listdir(checkDir):
-					selif1 = selif.replace(" ", "\\ ")
 					pathD = checkDir + "/" + selif
-					pathD1 = checkDir + "/" + selif1
+					pathD1 = pathD.replace(" ","\\ ")
 					cmd = "diff {} {}".format(pathF1,pathD1)
 					if os.path.isfile(pathD):
 						k = subprocess.call(cmd, shell=True, stdout = subprocess.DEVNULL, stderr = subprocess.DEVNULL)
@@ -86,9 +98,20 @@ def checkDup(checkDir, dirdir):
 
 
 print("Duplicate Remover v1.0")
+print("++ exit|stop|quit to stop script ++")
+print()
+
 x = "X"
 while x != "y" and x != "n":
 	x = input("Would you like to check directories within directories? (y/n)   ")
+	if x == "exit" or x == "stop" or x == "quit":
+		bye = "X"
+		while bye != "y" and bye != "n":
+			bye = input("Exit? (y/n)   ")
+			if bye == "y":
+				print("Goodbye!")
+				exit()
+
 if x == "y":
 	dirdir = True
 else:
@@ -97,6 +120,7 @@ else:
 print()
 
 while True:
+	dontCheck.clear()
 	# Prompt inputs (ask which directory to search)
 	print("Pick a directory: ", end="")
 	checkDir = input()
