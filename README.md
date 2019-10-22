@@ -27,6 +27,7 @@ A list of super awesome scripts which help automate the boring tasks.
 | [translate_excel](https://github.com/adityaarakeri/super-scripts/tree/master/translate_excel) | [loukotal](https://github.com/loukotal) |
 | [linux_free_up_space](https://github.com/vpatiltech/super-scripts/tree/vpatiltech/linux_free_up_space) | [V Patil](https://github.com/vpatiltech) |
 | [scrape_googlemaps_search_data](https://github.com/chdinesh1089/super-scripts/tree/googlemaps_scraper/scrape_googlemaps_search_data) | [Dinesh Ch](https://github.com/chdinesh1089) |
+| [create_whats_app_group](https://github.com/vpatiltech/super-scripts/tree/master/create_whatsapp_group) | [Dinesh Ch](https://github.com/chdinesh1089) |
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
