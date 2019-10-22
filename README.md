@@ -29,6 +29,7 @@ A list of super awesome scripts which help automate the boring tasks.
 | [scrape_googlemaps_search_data](https://github.com/chdinesh1089/super-scripts/tree/googlemaps_scraper/scrape_googlemaps_search_data) | [Dinesh Ch](https://github.com/chdinesh1089) |
 | [create_whats_app_group](https://github.com/vpatiltech/super-scripts/tree/master/create_whatsapp_group) | [Dinesh Ch](https://github.com/chdinesh1089) |
 | [bootstrap_mac_dev_env](https://github.com/dirtyonekanobi/super-scripts/tree/bootstrap-dev/bootstrap_mac_dev_env) | [dirtyoneanobi](https://github.com/dirtyonekanobi) |
+| [linux_lock_with_usb_protection](https://github.com/Anarcroth/super-scripts/tree/feature/add-linux-lock-with-usb-protection) | [Anarcroth](https://github.com/Anarcroth) |
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
