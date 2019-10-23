@@ -1,0 +1,20 @@
+#!/bin/bash
+#
+# i3lock custom script with added benefits
+
+# Disable usb ports
+sudo bash -c "echo 0 > /sys/bus/usb/devices/usb1/authorized_default"
+
+# Listen for background usb connections
+python3 ~/PATH/TO/usblistener.py &
+
+i3lock # or any other locking system
+
+# Enable usbs
+sudo bash -c "echo 1 > /sys/bus/usb/devices/usb1/authorized_default"
+
+# Clean background processes
+pgrep -f 'python3 $HOME/PATH/TO/' | xargs kill
+
+# Kill mplayer from python process
+killall mplayer
