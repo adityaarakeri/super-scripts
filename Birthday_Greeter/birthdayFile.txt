@@ -1,0 +1,5 @@
+add list of birthdays:
+MM/YY USERNAME
+
+10/21 asmisez
+07/19 20prince12
