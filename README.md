@@ -39,7 +39,7 @@ A list of super awesome scripts which help automate the boring tasks.
 | [bootstrap_mac_dev_env](https://github.com/dirtyonekanobi/super-scripts/tree/bootstrap-dev/bootstrap_mac_dev_env) | [dirtyoneanobi](https://github.com/dirtyonekanobi) |
 | [linux_lock_with_usb_protection](https://github.com/Anarcroth/super-scripts/tree/feature/add-linux-lock-with-usb-protection) | [Anarcroth](https://github.com/Anarcroth) |
 | [mouse_keyboard_automator](https://github.com/adityaarakeri/super-scripts/tree/master/mouse_keyboard_automator) | [Rafed](https://github.com/rafed123) |
-
+| [image_appender](https://github.com/adityaarakeri/super-scripts/tree/master/image_appender) | [Rafed](https://github.com/rafed123) |
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
