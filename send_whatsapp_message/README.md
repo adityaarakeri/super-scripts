@@ -1,9 +1,8 @@
 #Send a whatsapp message
 
-Requirements:
-1.python3
-2.selenium(python module)
-3.chromedriver(needs to be in PATH)
-You can install the chromedriver from https://chromedriver.chromium.org/downloads
-Note:Chromedriver and Google Chrome version has to be same.
-     Scan QR code manually.
+Requirements
+python3 selenium(python module) chromedriver(needs to be in path)
+
+Note:
+ When asked to scan QR code, do this manually and the rest will be done.
+ https://chromedriver.chromium.org/downloads
