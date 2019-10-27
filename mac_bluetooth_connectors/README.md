@@ -16,12 +16,12 @@ To easily connect bluetooth device without click (mouseless user), You can conne
 
 ## Usage
 
-Replace '<MAC address>' with your device's MAC address.
-# To find MAC address
+Replace '[MAC address]' with your device's MAC address.
+- To find MAC address
 run 'bt-connect'  will show list of your device name and MAC address
-# To connect 
-run 'bt-connect -c <MAC address>'
-# To disconnect 
-run 'bt-connect -d <MAC address>'
-# To get status 
-run 'bt-connect -s <MAC address>'
+- To connect 
+run 'bt-connect -c [MAC address]'
+- To disconnect 
+run 'bt-connect -d [MAC address]'
+- To get status 
+run 'bt-connect -s [MAC address]'
