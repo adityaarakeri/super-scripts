@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SimpleCLI",
+        "repositoryURL": "https://github.com/lapfelix/SimpleCLI.git",
+        "state": {
+          "branch": null,
+          "revision": "5a0fae89107ddae95189221d0aa1a8152cc73ade",
+          "version": "0.1.9"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

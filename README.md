@@ -39,6 +39,7 @@ A list of super awesome scripts which help automate the boring tasks.
 | [bootstrap_mac_dev_env](https://github.com/dirtyonekanobi/super-scripts/tree/bootstrap-dev/bootstrap_mac_dev_env) | [dirtyoneanobi](https://github.com/dirtyonekanobi) |
 | [linux_lock_with_usb_protection](https://github.com/Anarcroth/super-scripts/tree/feature/add-linux-lock-with-usb-protection) | [Anarcroth](https://github.com/Anarcroth) |
 | [mouse_keyboard_automator](https://github.com/adityaarakeri/super-scripts/tree/master/mouse_keyboard_automator) | [Rafed](https://github.com/rafed123) |
+| [mac_bluetooth_connectors](https://github.com/adityaarakeri/super-scripts/tree/master/mac_bluetooth_connectors) | [Narong](https://github.com/Narong-Kanthnu) |
 
 
 ## Contribuition Guidelines
