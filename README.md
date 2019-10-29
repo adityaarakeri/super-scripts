@@ -15,7 +15,7 @@ A list of super awesome scripts which help automate the boring tasks.
 | [arch_linux](https://github.com/adityaarakeri/super-scripts/tree/master/arch_linux) | [crouther](https://github.com/crouther) |
 | [wifi_to_eth](https://github.com/adityaarakeri/super-scripts/tree/master/wifi_to_eth) | [crouther](https://github.com/crouther) |
 |[file_finder](https://github.com/adityaarakeri/super-scripts/tree/master/file_finder) | [poszy](https://github.com/poszy) |
-| [makere](https://github.com/adityaarakeri/super-scripts/tree/master/makere) | [aksJain0](https://github.com/aksJain0)
+| [makere](https://github.com/adityaarakeri/super-scripts/tree/master/makere) | [aksJain0](https://github.com/aksJain0) |
 |[loop_command](https://github.com/adityaarakeri/super-scripts/tree/master/loop_command) | [jeancsil](https://github.com/jeancsil)
 | [autofill_information](https://github.com/adityaarakeri/super-scripts/tree/master/autofill_information) | [pcube99](https://github.com/pcube99)
 |[raw_to_jpeg](https://github.com/adityaarakeri/super-scripts/tree/master/raw_to_jpeg) | [Sadeed](https://github.com/Sadeed)
@@ -39,7 +39,7 @@ A list of super awesome scripts which help automate the boring tasks.
 | [bootstrap_mac_dev_env](https://github.com/dirtyonekanobi/super-scripts/tree/bootstrap-dev/bootstrap_mac_dev_env) | [dirtyoneanobi](https://github.com/dirtyonekanobi) |
 | [linux_lock_with_usb_protection](https://github.com/Anarcroth/super-scripts/tree/feature/add-linux-lock-with-usb-protection) | [Anarcroth](https://github.com/Anarcroth) |
 | [mouse_keyboard_automator](https://github.com/adityaarakeri/super-scripts/tree/master/mouse_keyboard_automator) | [Rafed](https://github.com/rafed123) |
-
+| [save_emails](https://github.com/adityaarakeri/super-scripts/tree/master/save_emails) | [shalini-s](https://github.com/shalini-s) |
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
