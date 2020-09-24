@@ -41,6 +41,7 @@ A list of super awesome scripts which help automate the boring tasks.
 | [mouse_keyboard_automator](https://github.com/adityaarakeri/super-scripts/tree/master/mouse_keyboard_automator) | [Rafed](https://github.com/rafed123) |
 | [mac_bluetooth_connectors](https://github.com/Narong-Kanthnu/super-scripts/tree/master/mac_bluetooth_connectors) | [Narong](https://github.com/Narong-Kanthnu) |
 | [dotfiles](https://github.com/adityaarakeri/super-scripts/tree/master/dotfiles) | [2KAbhishek](https://github.com/2KAbhishek) |
+| [whatsapp_web](https://github.com/ukt1997/super-scripts/tree/master/whatsapp_web) | [ukt1997](https://github.com/ukt1997) |
 
 
 ## Contribuition Guidelines
