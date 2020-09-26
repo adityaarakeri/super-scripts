@@ -42,6 +42,7 @@ A list of super awesome scripts which help automate the boring tasks.
 | [comic_dl](https://github.com/adityaarakeri/super-scripts/tree/master/comic_dl) | [Xonshiz](https://github.com/Xonshiz) |
 | [mac_bluetooth_connectors](https://github.com/Narong-Kanthnu/super-scripts/tree/master/mac_bluetooth_connectors) | [Narong](https://github.com/Narong-Kanthnu) |
 | [dotfiles](https://github.com/adityaarakeri/super-scripts/tree/master/dotfiles) | [2KAbhishek](https://github.com/2KAbhishek) |
+| [go_binary_compiler](https://github.com/adityaarakeri/super-scripts/tree/master/go_binary_compiler) | [KwanJunWen](https://github.com/KwanJunWen) |
 
 
 ## Contribuition Guidelines
