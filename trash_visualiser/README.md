@@ -1,7 +1,7 @@
 # Trash Visualiser
 
 ## Overview
-A python automation script, that will show all your deleted items inside the Recycle-bin in a better visual representation. You'll be able to open those folders/ files in the GUI, as well as delete and restore them from the GUI, in an effective manner.
+A python automation script, that will show all your deleted items inside the Recycle-bin in a better visual representation. You'll be able to open those folders/ files in the CLI, as well as delete and restore them from the GUI, in an effective manner.
 <br />
 <br />
 <b>You must be thinking, Why don't just use the recycle-bin directly !!!</b>
