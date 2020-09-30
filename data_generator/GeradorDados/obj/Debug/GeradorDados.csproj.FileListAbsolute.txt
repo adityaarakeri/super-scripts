@@ -1,0 +1,16 @@
+D:\Arquivos\Projetos\C#\GeradorDados\GeradorDados\bin\Debug\GeradorDados.exe.config
+D:\Arquivos\Projetos\C#\GeradorDados\GeradorDados\bin\Debug\GeradorDados.exe
+D:\Arquivos\Projetos\C#\GeradorDados\GeradorDados\bin\Debug\GeradorDados.pdb
+D:\Arquivos\Projetos\C#\GeradorDados\GeradorDados\obj\Debug\GeradorDados.csprojAssemblyReference.cache
+D:\Arquivos\Projetos\C#\GeradorDados\GeradorDados\obj\Debug\GeradorDados.exe
+D:\Arquivos\Projetos\C#\GeradorDados\GeradorDados\obj\Debug\GeradorDados.pdb
+F:\Projetos\C#\GeradorDados\GeradorDados\bin\Debug\GeradorDados.exe.config
+F:\Projetos\C#\GeradorDados\GeradorDados\bin\Debug\GeradorDados.exe
+F:\Projetos\C#\GeradorDados\GeradorDados\bin\Debug\GeradorDados.pdb
+F:\Projetos\C#\GeradorDados\GeradorDados\bin\Debug\Newtonsoft.Json.dll
+F:\Projetos\C#\GeradorDados\GeradorDados\bin\Debug\Newtonsoft.Json.xml
+F:\Projetos\C#\GeradorDados\GeradorDados\obj\Debug\GeradorDados.csprojAssemblyReference.cache
+F:\Projetos\C#\GeradorDados\GeradorDados\obj\Debug\GeradorDados.csproj.CoreCompileInputs.cache
+F:\Projetos\C#\GeradorDados\GeradorDados\obj\Debug\GeradorDados.csproj.CopyComplete
+F:\Projetos\C#\GeradorDados\GeradorDados\obj\Debug\GeradorDados.exe
+F:\Projetos\C#\GeradorDados\GeradorDados\obj\Debug\GeradorDados.pdb

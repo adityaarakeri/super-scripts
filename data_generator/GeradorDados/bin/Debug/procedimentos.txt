@@ -1,0 +1,481 @@
+Consulta em consultório (no horário normal ou preestabelecido)
+Consulta em domicílio
+Consulta em pronto socorro
+Visita hospitalar (paciente internado)
+Atendimento ao recém-nascido em berçário
+Atendimento ao recém-nascido em sala de parto (parto normal ou operatório de alto risco)
+Atendimento ao recém-nascido em sala de parto (parto normal ou operatório de baixo risco)
+Atendimento do intensivista diarista (por dia e por paciente)
+Atendimento médico do intensivista em UTI geral ou pediátrica (plantão de 12 horas - por paciente)
+Acompanhamento médico para transporte intra-hospitalar de pacientes graves, com ventilação
+assistida, da UTI para o centro de diagnósitco
+Transporte extra-hospitalar aéreo ou aquático de pacientes graves, 1ª hora - a partir do deslocamento
+do médico - acompanhamento médico
+Transporte extra-hospitalar aéreo ou aquático de pacientes graves, por hora adicional -
+acompanhamento médico
+Transporte extra-hospitalar terrestre de pacientes graves, 1ª hora - a partir do deslocamento do médico -
+acompanhamento médico
+Transporte extra-hospitalar terrestre de pacientes graves, por hora adicional - até o retorno do médico à
+base - acompanhamento médico
+Aconselhamento genético
+Atendimento ambulatorial em puericultura
+Atendimento ao familiar do adolescente
+Atendimento pediátrico a gestantes (3º trimestre)
+Exame de aptidão física e mental para concessão de benefícios fiscais conferidos pelas Secretaria da
+Receita Federal e da Fazenda Estadual, a quem fazem jus portadores de mobilidade reduzida, com
+necessidade de adaptação veicular
+Exame de aptidão física e mental para ratificação, quando a condição física e mental assim o requerer,
+dos exames realizados pelo órgão previdenciário, incluindo restrição ou liberação para a condução de
+veículo automotor
+Exame de aptidão física e mental, ou em portadores de mobilidade reduzida, para fins de inscrição ou
+renovação da CNH (Carteira Nacional de Habilitação)
+Junta Médica - pagamento de honorários médicos referente a 3ª opinião, conforme resolução Consu nº
+8
+Junta Médica (três ou mais profissionais) - destina-se ao esclarecimento diagnóstico ou decisão de
+conduta em caso de difícil solução - por profissional
+Perícia médica
+Prova de direção veicular em banca especial - Avaliação Clínica durante a prova de direção veicular
+procedida por dois médicos simultaneamente
+Acompanhamento clínico ambulatorial pós-transplante de córnea
+Acompanhamento clínico ambulatorial pós-transplante de medula óssea
+Acompanhamento clínico ambulatorial pós-transplante renal - por avaliação
+Análise da proporcionalidade cineantropométrica
+Avaliação clínica e eletrônica de paciente portador de marca-passo ou sincronizador ou desfibrilador
+Avaliação da composição corporal por antropometria (inclui consulta)
+Avaliação da composição corporal por bioimpedanciometria
+Avaliação da composição corporal por pesagem hidrostática
+Avaliação nutrológica (inclui consulta)
+Avaliação nutrológica pré e pós-cirurgia bariátrica (inclui consulta)
+Controle anti-doping (por período de 2 horas) - durante competições
+Controle anti-doping (por período de 2 horas) - fora de competições
+Prestação de serviços em delegações ou competições esportivas
+Rejeição de enxerto renal - tratamento ambulatorial - avaliação clínica diária
+Teste e adaptação de lente de contato (sessão) - binocular
+Holter de 24 horas - 2 ou mais canais - analógico
+Holter de 24 horas - 3 canais - digital
+Monitor de eventos sintomáticos por 15 a 30 dias (LOOPER)
+Monitorização ambulatorial da pressão arterial - MAPA (24 horas)
+Monitorização eletrocardiográfica programada com transcrição - não contínua
+Sistema Holter - 12 horas - 1 canal
+Sistema Holter - 12 horas - 2 ou mais canais
+Sistema Holter - 24 horas - 1 canal
+Tilt teste
+Adaptação e treinamento de recursos ópticos para visão subnormal (por sessão) - binocular
+Amputação bilateral (preparação do coto)
+Amputação bilateral (treinamento protético)
+Amputação unilateral (preparação do coto)
+Amputação unilateral (treinamento protético)
+Assistência fisiátrica respiratória em pré e pós-operatório de condições cirúrgicas
+Ataxias
+Atendimento fisiátrico no pré e pós-operatório de pacientes para prevenção de seqüelas
+Atendimento fisiátrico no pré e pós-parto
+Atividade reflexa ou aplicação de técnica cinesioterápica específica
+Atividades em escola de postura (máximo de 10 pessoas) - por sessão
+Biofeedback com EMG
+Bloqueio fenólico, alcoólico ou com toxina botulínica por segmento corporal
+Confecção de órteses em material termo-sensível (por unidade)
+Confecção de prótese imediata
+Confecção de prótese provisória
+Desvios posturais da coluna vertebral
+Disfunção vésico-uretral
+Distrofia simpático-reflexa
+Distúrbios circulatórios artério-venosos e linfáticos
+Doenças pulmonares atendidas em ambulatório
+Exercícios de ortóptica (por sessão)
+Exercícios de pleóptica
+Exercícios para reabilitação do asmático (ERAC) - por sessão coletiva
+Exercícios para reabilitação do asmático (ERAI) - por sessão individual
+Hemiparesia
+Hemiplegia
+Hemiplegia e hemiparesia com afasia
+Hipo ou agenesia de membros
+Infiltração de ponto gatilho (por músculo) ou agulhamento seco (por músculo)
+Lesão nervosa periférica afetando mais de um nervo com alterações sensitivas e/ou motoras
+Lesão nervosa periférica afetando um nervo com alterações sensitivas e/ou motoras
+Manipulação vertebral
+Miopatias
+Paciente com D.P.O.C. em atendimento ambulatorial necessitando reeducação e reabilitação
+respiratória
+Paciente em pós-operatório de cirurgia cardíaca, atendido em ambulatório, duas a três vezes por
+semana
+Pacientes com doença isquêmica do coração, atendido em ambulatório de 8 a 24 semanas
+Pacientes com doença isquêmica do coração, atendido em ambulatório, até 8 semanas de programa
+Pacientes com doenças neuro-músculo-esqueléticas com envolvimento tegumentar
+Pacientes sem doença coronariana clinicamente manifesta, mas considerada de alto risco, atendido
+em ambulatório, duas a três vezes por semana
+Paralisia cerebral
+Paralisia cerebral com distúrbio de comunicação
+Paraparesia/tetraparesia
+Paraplegia e tetraplegia
+Parkinson
+Patologia neurológica com dependência de atividades da vida diária
+Patologia osteomioarticular em diferentes segmentos da coluna
+Patologia osteomioarticular em dois ou mais membros
+Patologia osteomioarticular em um membro
+Patologia osteomioarticular em um segmento da coluna
+Patologias osteomioarticulares com dependência de atividades da vida diária
+Procedimentos mesoterápicos (por região anatômica)
+Procedimentos mesoterápicos com calcitonina (qualquer segmento)
+Processos inflamatórios pélvicos
+Programa de exercício supervisionado com obtenção de eletrocardiograma e/ou saturação de O2 -
+sessão coletiva
+Programa de exercício supervisionado com obtenção de eletrocardiograma e/ou saturação de O2 -
+sessão individual
+Programa de exercício supervisionado sem obtenção de eletrocardiograma e/ou saturação de O2 -
+sessão coletiva
+Programa de exercício supervisionado sem obtenção de eletrocardiograma e/ou saturação de O2 -
+sessão individual
+Queimados - seguimento ambulatorial para prevenção de seqüelas (por segmento)
+Reabilitação cardíaca supervisionada. Programa de 12 semanas. Duas a três sessões por semana (por
+sessão)
+Reabilitação de paciente com endoprótese
+Reabilitação labiríntica (por sessão)
+Reabilitação perineal com biofeedback
+Recuperação funcional de distúrbios crânio-faciais
+Recuperação funcional pós-operatória ou por imobilização da patologia vertebral
+Recuperação funcional pós-operatória ou pós-imobilização gessada de patologia osteomioarticular
+com complicações neurovasculares afetando mais de um membro
+Recuperação funcional pós-operatória ou pós-imobilização gessada de patologia osteomioarticular
+com complicações neurovasculares afetando um membro
+Retardo do desenvolvimento psicomotor
+Seqüelas de traumatismos torácicos e abdominais
+Seqüelas em politraumatizados (em diferentes segmentos)
+Sinusites
+Actinoterapia (por sessão)
+Aplicação de hipossensibilizante - em consultório (AHC) exclusive o alérgeno - planejamento técnico
+para
+Bota de Unna - confecção
+Cateterismo de canais ejaculadores
+Cateterismo vesical em retenção urinária
+Cauterização química vesical
+Cerumen - remoção (bilateral)
+Crioterapia (grupo de até 5 lesões)
+Curativo de extremidades de origem vascular
+Curativo de ouvido (cada)
+Curativo oftalmológico
+Curativos em geral com anestesia, exceto queimados
+Curativos em geral sem anestesia, exceto queimados
+Dilatação uretral (sessão)
+Fototerapia com UVA (PUVA) (por sessão)
+Imunoterapia específica - 30 dias - planejamento técnico
+Imunoterapia inespecífica - 30 dias - planejamento técnico
+Instilação vesical ou uretral
+Massagem prostática
+Pneumoperitônio (por sessão)
+Pneumotórax artificial
+Pulsoterapia / terapia imunológica intravenosa (por sessão) - ambulatorial
+Sessão de eletroconvulsoterapia (em sala com oxímetro de pulso, monitor de ECG, EEG), sob
+anestesia
+Sessão de oxigenoterapia hiperbárica (por sessão de 2 horas)
+Sessão de psicoterapia de casal
+Sessão de psicoterapia de grupo (por paciente)
+Sessão de psicoterapia individual
+Sessão de psicoterapia infantil
+Terapia inalatória - por nebulização
+Terapia oncológica - planejamento e 1º dia de tratamento
+Terapia oncológica - por dia subseqüente de tratamento
+Terapia oncológica com altas doses - planejamento e 1º dia de tratamento
+Terapia oncológica com altas doses - por dia subseqüente de tratamento
+Terapia oncológica com aplicação de medicamentos por via intracavitária ou intratecal - por
+procedimento
+Terapia oncológica com aplicação intra-arterial ou intravenosa de medicamentos em infusão de duração
+mínima de 6 horas - planejamento e 1º dia de tratamento
+Terapia oncológica com aplicação intra-arterial ou intravenosa de medicamentos em infusão de duração
+mínima de 6 horas - por dia subseqüente de tratamento
+Perícia forense, por psiquiatra forense
+Perícia psiquiátrica administrativa
+Acompanhamento clínico de transplante renal no período de internação do receptor e do doador (pósoperatório até 15 dias)
+Acompanhamento peroperatório
+Assistência cardiológica no pós-operatório de cirurgia cardíaca (após a alta da UTI)
+Assistência cardiológica peroperatória em cirurgia geral e em parto (horas suplementares) - máximo de
+4 horas
+Assistência cardiológica peroperatória em cirurgia geral e em parto (primeira hora)
+Avaliação clínica diária enteral
+Avaliação clínica diária parenteral
+Avaliação clínica diária parenteral e enteral
+Cardioversão elétrica eletiva (avaliação clínica, eletrocardiográfica, indispensável à desfibrilação)
+Rejeição de enxerto renal - tratamento internado - avaliação clínica diária - por visita
+Transplante duplo rim-pâncreas - acompanhamento clínico (pós-operatório até 15 dias)
+Tratamento conservador de traumatismo cranioencefálico, hipertensão intracraniana e hemorragia
+(por dia)
+Cardiotocografia anteparto
+Cardiotocografia intraparto (por hora) até 6 horas externa
+Monitorização da pressão intracraniana (por dia)
+Monitorização hemodinâmica invasiva (por 12 horas)
+Monitorização neurofisiológica intra-operatória
+Potencial evocado intra-operatório - monitorização cirúrgica (PE/IO)
+Assistência fisiátrica respiratória em doente clínico internado
+Assistência fisiátrica respiratória em paciente internado com ventilação mecânica
+Eletroestimulação do assoalho pélvico e/ou outra técnica de exercícios perineais
+Pacientes com doença isquêmica do coração, hospitalizado, até 8 semanas de programa
+Pacientes em pós-operatório de cirurgia cardíaca, hospitalizado, até 8 semanas de programa
+Cardioversão elétrica de emergência
+Cardioversão química de arritmia paroxísta em emergência
+Priapismo - tratamento não cirúrgico
+Pulsoterapia / terapia imunológica intravenosa (por sessão) - hospitalar
+Terapia oncológica com aplicação intra-arterial de medicamentos, em regime de aplicação
+peroperatória, por meio de cronoinfusor ou perfusor extra-corpórea
+Abrasão cirúrgica (por sessão)
+Abscesso de unha (drenagem) - tratamento cirúrgico
+Alopecia parcial - exérese e sutura
+Alopecia parcial - rotação de retalho
+Alopecia parcial - rotação múltipla de retalhos
+Apêndice pré-auricular - ressecção
+Autonomização de retalho - por estágio
+Biópsia de pele, tumores superficiais, tecido celular subcutâneo, linfonodo superficial, etc
+Biópsia de unha
+Calosidade e/ou mal perfurante - desbastamento (por lesão)
+Cantoplastia ungueal
+Cauterização química (por grupo de até 5 lesões)
+Cirurgia da hidrosadenite (por região)
+Cirurgia micrográfica de Mohs
+Correção cirúrgica de linfedema (por estágio)
+Correção cirúrgica de sequelas de alopecia traumática com microenxertos pilosos (por região)
+Correção de deformidades nos membros com utilização de implantes
+Correção de deformidades por exérese de tumores, cicatrizes ou ferimentos com o emprego de
+expansores em retalhos musculares ou miocutâneos (por estágio)
+Correção de deformidades por exérese de tumores, cicatrizes ou ferimentos, com o emprego de
+expansores de tecido, em retalhos cutâneos (por estágio)
+Correção de lipodistrofia braquial, crural ou trocanteriana de membros superiores e inferiores
+Criocirurgia (nitrogênio líquido) de neoplasias cutâneas
+Curativo de queimaduras - por unidade topográfica (UT) ambulatorial
+Curativo de queimaduras - por unidade topográfica (UT) hospitalar
+Curativo especial sob anestesia - por unidade topográfica (UT)
+Curetagem e eletrocoagulação de CA de pele (por lesão)
+Curetagem simples de lesões de pele (por grupo de até 5 lesões)
+Dermoabrasão de lesões cutâneas
+Dermolipectomia para correção de abdome em avental
+Desbridamento cirúrgico - por unidade topográfica (UT)
+Eletrocoagulação de lesões de pele e mucosas - com ou sem curetagem (por grupo de até 5 lesões)
+Enxerto cartilaginoso
+Enxerto composto
+Enxerto de mucosa
+Enxerto de pele (homoenxerto inclusive)
+Enxerto de pele múltiplo - por unidade topográfica (UT)
+Epilação por eletrólise (por sessão)
+Escalpo parcial - tratamento cirúrgico
+Escalpo total - tratamento cirúrgico
+Escarectomia descompressiva (pele e estruturas profundas) - por unidade topográfica (UT)
+Esfoliação química média (por sessão)
+Esfoliação química profunda (por sessão)
+Esfoliação química superficial (por sessão)
+Exérese de higroma cístico
+Exérese de higroma cístico no RN e lactente
+Exérese de lesão / tumor de pele e mucosas
+Exérese de lesão com auto-enxertia
+Exérese de tumor e rotação de retalho músculo-cutâneo
+Exérese de unha
+Exérese e sutura de hemangioma, linfangioma ou nevus (por grupo de até 5 lesões)
+Exérese e sutura de lesões (circulares ou não) com rotação de retalhos cutâneos
+Exérese e sutura simples de pequenas lesões - grupo de até 5 lesões
+Exérese tangencial (shaving) - (por grupo de até 5 lesões)
+Expansão tissular (por sessão)
+Extensos ferimentos, cicatrizes ou tumores - excisão e retalhos cutâneos da região
+Extensos ferimentos, cicatrizes ou tumores - exérese e emprego de retalhos cutâneos ou musculares
+cruzados (por estágio)
+Extensos ferimentos, cicatrizes ou tumores - exérese e retalhos cutâneos à distância
+Extensos ferimentos, cicatrizes ou tumores - exérese e rotação de retalho fasciocutâneo ou axial
+Extensos ferimentos, cicatrizes ou tumores - exérese e rotação de retalhos miocutâneos
+Extensos ferimentos, cicatrizes ou tumores - exérese e rotação de retalhos musculares
+Extensos ferimentos, cicatrizes, ou tumores - exérese e enxerto cutâneo
+Face - biópsia
+Ferimentos infectados e mordidas de animais (desbridamento)
+Incisão e drenagem de abscesso, hematoma ou panarício
+Incisão e drenagem de flegmão
+Incisão e drenagem de tenossinovites purulentas
+Infiltração intralesional, cicatricial / hemangiomas - por sessão
+Lasercirurgia (por sessão)
+Matricectomia por dobra ungueal
+Plástica em Z ou W
+Reconstrução com retalhos de gálea aponeurótica
+Retalho composto (incluindo cartilagem ou osso)
+Retalho expandido
+Retalho local ou regional
+Retalho muscular ou miocutâneo
+Retirada de corpo estranho subcutâneo
+Retração cicatricial de axila - tratamento cirúrgico
+Retração cicatricial de zona de flexão e extensão de membros superiores e inferiores - tratamento
+cirúrgico
+Retração cicatricial do cotovelo - tratamento cirúrgico
+Retração de aponevrose palmar (Dupuytren) - tratamento cirúrgico
+Sutura de extensos ferimentos com ou sem desbridamento
+Sutura de pequenos ferimentos com ou sem desbridamento
+Transecção de retalho
+Transferência intermediária de retalho
+Tratamento cirúrgico de bridas constrictivas
+Página 18
+
+
+Subgrupo Termo
+Tratamento cirúrgico de grandes hemangiomas
+Tratamento da miiase furunculóide (por lesão)
+Tratamento de anomalias pilosas a laser/photoderm - por sessão
+Tratamento de escaras ou ulcerações com enxerto de pele
+Tratamento de escaras ou ulcerações com retalhos cutâneos locais
+Tratamento de escaras ou ulcerações com retalhos miocutâneos ou musculares
+Tratamento de fístula cutânea
+Tratamento de lesões cutâneas e vasculares a laser/photoderm - por sessão
+TU partes moles - exérese
+Unha (enxerto) - tratamento cirúrgico
+Biópsia de lábio
+Excisão com plástica de vermelhão
+Excisão com reconstrução à custa de retalhos
+Excisão com reconstrução total
+Excisão em cunha
+Frenotomia labial
+Queiloplastia para fissura labial unilateral - por estágio
+Reconstrução de sulco gengivo-labial
+Reconstrução parcial do lábio
+Reconstrução total do lábio
+Tratamento cirúrgico da macrostomia
+Tratamento cirúrgico da microstomia
+Alongamento cirúrgico do palato mole
+Biópsia de boca
+Excisão de lesão maligna com reconstrução à custa de retalhos locais
+Excisão de tumor de boca com mandibulectomia
+Exérese de tumor e enxerto cutâneo ou mucoso
+Fístula orofacial - tratamento cirúrgico
+Glossectomia subtotal ou total, com ou sem mandibulectomia
+Palatoplastia com enxerto ósseo
+Palatoplastia com retalho faríngeo
+Palatoplastia com retalho miomucoso
+Palatoplastia parcial
+Palatoplastia total
+Palato-queiloplastia unilateral
+Plástica do ducto parotídeo
+Biópsia de língua
+Frenotomia lingual
+Tumor de língua - tratamento cirúrgico
+Biópsia de glândula salivar
+Excisão de glândula submandibular
+Exérese de rânula ou mucocele
+Parotidectomia parcial com conservação do nervo facial
+Parotidectomia total ampliada com ou sem reconstrução com retalhos locais
+Parotidectomia total com conservação do nervo facial
+Parotidectomia total com reconstrução do nervo facial
+Parotidectomia total com sacrificio do nervo facial, sem reconstrução
+Plastia de ducto salivar ou exérese de cálculo ou de rânula salivar
+Ressecção de tumor de glândula sublingual
+Abscesso faríngeo - qualquer área
+Adeno tonsilectomia - revisão cirúrgica
+Adeno-amigdalectomia
+Adenoidectomia
+Adenoidectomia por videoendoscopia
+Amigdalectomia das palatinas
+Amigdalectomia lingual
+Biópsia do cavum, orofaringe ou hipofaringe
+Cauterização (qualquer técnica) por sessão
+Corpo estranho de faringe - retirada em consultório
+Corpo estranho de faringe - retirada sob anestesia geral
+Criptólise amigdaliana
+Faringolaringectomia
+Faringolaringoesofagectomia total
+Ressecção de nasoangiofibroma
+Ressecção de nasoangiofibroma por videoendoscopia
+Ressecção de tumor de faringe (via bucal ou nasal)
+Ressecção de tumor de faringe com acesso por faringotomia ou por retalho jugal
+Ressecção de tumor de faringe com mandibulectomia
+Ressecção de tumor de faringe por mandibulotomia
+Ressecção de tumor de nasofaringe via endoscópica
+Tonsilectomia a laser
+Tumor de boca ou faringe - ressecção
+Uvulopalatofaringoplastia (qualquer técnica)
+Uvulopalatofaringoplastia por radiofreqüência
+Alargamento de traqueostomia
+Aritenoidectomia microcirúrgica
+Aritenoidectomia ou aritenopexia via externa
+Confecção de fístula tráqueo-esofágica para prótese fonatória com miotomia faríngea
+Exérese de tumor por via endoscópica
+Injeção intralaríngea de toxina botulínica
+Laringectomia parcial
+Laringectomia total
+Laringofissura (inclusive com cordectomia)
+Laringotraqueoplastia
+Microcirurgia com laser para remoção de lesões malignas
+Microcirurgia com uso de laser para ressecção de lesões benignas
+Microcirurgia para decorticação ou tratamento de edema de Reinke
+Microcirurgia para remoção de cisto ou lesão intracordal
+Microcirurgia para ressecção de papiloma
+Microcirurgia para ressecção de pólipo, nódulo ou granuloma
+Microcirurgia para tratamento de paralisia de prega vocal (inclui injeção de materiais)
+Reconstrução para fonação após laringectomia
+Tiroplastia tipo 1 com rotação de aritenóide
+Tiroplastia tipo 1 simples
+Tiroplastia tipo 2 ou 3
+Tratamento cirúrgico da estenose laringo-traqueal
+Tratamento cirúrgico de trauma laríngeo (agudo)
+Fratura simples de mandíbula com contenção e bloqueio intermaxilar eventual
+Fratura cominutiva de mandíbula - redução cirúrgica com fixação óssea e bloqueio intermaxilar eventual
+Fratura de maxila, tipo Lefort I e II - redução e aplicação de levantamento zigomático-maxilar com
+bloqueio intermaxilar eventual
+Fratura de maxila, tipo Lefort III - redução e aplicação de levantamento crânio-maxilar com bloqueio
+intermaxilar eventual
+Fratura do arco zigomático - redução cirúrgica com fixação
+Fratura do arco zigomático - redução instrumental sem fixação
+Fratura Lefort I - fixação cirúrgica com síntese óssea, levantamento e bloqueio intermaxilar eventual
+Fratura Lefort II - fixação cirúrgica com síntese óssea, levantamento e bloqueio intermaxilar eventual
+Fratura Lefort III - fixação cirúrgica com síntese óssea, levantamento crânio-maxilar e bloqueio
+intermaxilar eventual
+Fratura naso etmóido órbito-etmoidal
+Fratura simples de mandíbula - redução cirúrgica com fixação óssea e bloqueio intermaxilar eventual
+Fraturas alveolares - fixação com aparelho e contenção
+Fraturas complexas de mandíbula - redução cirúrgica com fixação óssea e eventual bloqueio
+intermaxilar
+Fraturas complexas do terço médio da face, fixação cirúrgica com síntese, levantamento crânio-maxilar,
+enxerto ósseo, halo craniano eventual
+Fraturas múltiplas de terço médio da face:fixação cirúrgica com síntese óssea, levantamento crânio
+maxilar e bloqueio intermaxilar
+Redução de fratura de seio frontal (acesso coronal)
+Redução de fratura de seio frontal (acesso frontal)
+Redução de fratura do malar (com fixação)
+Redução de fratura do malar (sem fixação)
+Redução de luxação do ATM
+Retirada dos meios de fixação (na face)
+Tratamento conservador de fratura de ossos
+Artroplastia para luxação recidivante da articulação têmporo-mandibular
+Osteoplastia para prognatismo, micrognatismo ou laterognatismo
+Osteotomia crânio-maxilares complexas
+Osteotomia tipo Lefort I
+Osteotomia tipo Lefort II
+Osteotomia tipo Lefort III - extracraniana
+Osteotomias alvéolo palatinas
+Osteotomias segmentares da maxila ou malar
+Reconstrução parcial da mandíbula com enxerto ósseo
+Reconstrução total de mandíbula com prótese e ou enxerto ósseo
+Redução simples da luxação da articulação têmporo-mandibular com fixação intermaxilar
+Translocação etmóido orbital para tratamento do hipertelorismo miocutâneo associado a expansor de
+tecido - por lado
+Tratamento cirúrgico de anquilose da articulação têmporo mandibular
+Correção cirúrgica de depressão (afundamento) da região frontal
+Osteoplastias da órbita
+Osteoplastias de mandíbula
+Osteoplastias do arco zigomático
+Osteoplastias etmóido orbitais
+Correção de tumores, cicatrizes ou ferimentos com o auxílio de expansores de tecidos - por estágio
+Exérese de tumor benigno, cisto ou fístula
+Exérese de tumor maligno de pele
+Hemiatrofia facial, correção com enxerto de gordura ou implante
+Paralisia facial - reanimação com o músculo temporal (região oral) com neurotização
+Paralisia facial - reanimação com o músculo temporal (região oral), sem neurotização
+Paralisia facial - reanimação com o músculo temporal (região orbital e oral) com neurotização
+Paralisia facial - reanimação com o músculo temporal (região orbital), sem neurotização
+Reconstrução com retalho axial da artéria temporal superficial
+Reconstrução com retalhos axiais supra-orbitais e supratrocleares
+Reconstrução com retalhos em VY de pedículo subarterial
+Reconstrução com rotação do músculo temporal
+Biópsia de mandíbula
+Hemimandibulectomia ou ressecção segmentar ou seccional da mandíbula
+Mandibulectomia com ou sem esvaziamento orbitário e rinotomia lateral
+Mandibulectomia total
+Ressecção de tumor de mandíbula com desarticulação de ATM
+Cervicotomia exploradora
+Drenagem de abscesso cervical profundo
+Esvaziamento cervical radical (especificar o lado)
+Esvaziamento cervical radical ampliado
+Esvaziamento cervical seletivo (especificar o lado)
+Exérese de cisto branquial
+Exérese de cisto tireoglosso
+Exérese de tumor benigno, cisto ou fístula cervical
+Linfadenectomia profunda
+Linfadenectomia superficial
+Neuroblastoma cervical - exérese
