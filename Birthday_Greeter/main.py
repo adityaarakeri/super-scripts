@@ -1,6 +1,5 @@
 #This script will send the birthday Greet message when someone birthday is found from the text file.
 
-
 from tweepy import OAuthHandler
 import tweepy
 import time
@@ -18,10 +17,9 @@ API = tweepy.API(auth)
 
 #sending Message on birthdays
 def AutoBirthdayMessage():
-    while(1):
-        #opening file which has dates and usernames
-        fileName = open('birthdayFile.txt', 'r')
-
+    #opening file which has dates and usernames
+    with open('birthdayFile.txt', 'r') as fileName:
+    
         #getting Current date
         today = time.strftime('%m/%d')
 
@@ -34,15 +32,19 @@ def AutoBirthdayMessage():
                 user = API.get_user(line[1])
                 message = f"Wishing you a day filled with happiness and a year filled with joy. Happy birthday {user.name}"
                 API.send_direct_message(user.id, message)
-        #loop back after 24hrs
-        time.sleep(86400)
-        fileName.close()
-
-
-AutoBirthdayMessage()
-
 
 ####################################
+try:
+    while True:
+        AutoBirthdayMessage()
+        #loop back after 24hr
+        time.sleep(86400)
+except Exception as e:
+    print(e)
+
+
+
+
 #bonus function for sending message to followers
 #send message to followers
 def sendMessageAll(message):
