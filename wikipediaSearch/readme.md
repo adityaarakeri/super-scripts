@@ -3,7 +3,7 @@
 .
 
 
-You can read further on `wikipedia` module on `https://www.crummy.com/software/BeautifulSoup/bs4/doc/` 
+You can read further on `wikipedia` module on `https://pypi.org/project/wikipedia/` 
 
 
 
