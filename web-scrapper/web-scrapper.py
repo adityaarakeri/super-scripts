@@ -3,7 +3,7 @@
 # Make sure the web-page which you scrape allows you to do it. And its a public web-page
 
 import requests
-import bs4
+from bs4 import BeautifulSoup
 
 # Add proxy setting if you are behind a proxy server, or you can ignore the below
 proxies = {
@@ -15,7 +15,7 @@ proxies = {
 res = requests.get('https://en.wikipedia.org/wiki/Machine_learning', proxies=proxies)
 
 # Converting it to a BeautifulSoup object
-soup = bs4.BeautifulSoup(res.text, 'lxml')
+soup = BeautifulSoup(res.text, 'lxml')
 
 A = []
 
@@ -27,8 +27,8 @@ for i in soup.select('.toc'):
     print(i.text) # Optional line
 
 # Writing the extraction to a file
-file1 = open("myfile.txt","w")
-file1.writelines(A)
-file1.close()
+with open("myfile.txt","w") as f:
+    f.writelines(A)
+    f.close()
 
 # End
