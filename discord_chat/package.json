@@ -1,0 +1,15 @@
+{
+  "name": "discord_chat",
+  "version": "1.0.0",
+  "description": "Send a message to multiple people/channels through a Discord bot.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Luis Pinto",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
