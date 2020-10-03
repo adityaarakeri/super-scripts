@@ -1,0 +1,31 @@
+name: update
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '*/6 * * * *'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🍽️ Get working copy
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+      - name: 🍳 Shake & bake README
+        env: 
+          Ap: ${{ secrets.API }}
+        run: | 
+          cd ${GITHUB_WORKSPACE}
+          node .
+      - name: 🚀 Deploy
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add .
+          git commit -am "Automating with GitHub Action!"
+          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git

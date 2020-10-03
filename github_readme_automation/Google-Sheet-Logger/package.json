@@ -1,0 +1,82 @@
+{
+  "name": "googlesheetlogger",
+  "displayName": "GoogleSheetLogger",
+  "description": "It logs specefic data to the google sheets, in our case for now, it only logs the file name a person is working on and a folder.",
+  "version": "0.0.3",
+  "publisher": "rubenkharel",
+  "engines": {
+    "vscode": "^1.49.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "configuration":[
+      {
+        "title": "GoogleSheetLogger",
+        "properties": {
+          "email.GoogleServiceAccountEmail": {
+            "type": "string",
+            "default": "",
+            "description": "The Google service email you are provided while creating Google service account."
+          },
+          "sheetId.LocatedInGoogleSheetUrl": {
+            "type": "string",
+            "default": "",
+            "description": "Sheet ID of the sheet you are going to be using as a bridge. It is located in the url of the sheet you will be using."
+          },
+          "sheetName.theNameOfTheSheet": {
+            "type": "string",
+            "default": "Sheet1",
+            "description": "Found on google sheet document's right-bottom corner. Let it be default I would say."
+          },
+          "keyFile.p12File": {
+            "type": "string",
+            "default": "./mykey.p12",
+            "description": "Specifies the folder path containing the mykey.p12 file you downloaded from google service. Follow the tutorial from the Github repo if you get any issues."
+          }
+        }
+      }
+    ],
+
+    "commands": [
+      {
+        "command": "googlesheetlogger.helloWorld",
+        "title": "Hello World"
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "node ./test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.49.0",
+    "@types/glob": "^7.1.3",
+    "@types/mocha": "^8.0.0",
+    "@types/node": "^14.0.27",
+    "eslint": "^7.9.0",
+    "glob": "^7.1.6",
+    "mocha": "^8.1.3",
+    "typescript": "^4.0.2",
+    "vscode-test": "^1.4.0",
+    "vscode": "^1.1.37"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "gtoken": "^5.0.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "vscode"
+  ],
+  "author": "Ruben Kharel <iamrub3n@gmail.com> (https://rubenk.com.np)",
+  "license": "MIT"
+}
