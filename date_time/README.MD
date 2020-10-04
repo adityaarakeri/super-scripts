@@ -1,0 +1,1 @@
+simple CLI program to show current date and time
