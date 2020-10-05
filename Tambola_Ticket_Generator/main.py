@@ -1,6 +1,5 @@
 """
 Tambola Ticket generator
-ask (c) 2020. All rights reserved.
 """
 
 import argparse
