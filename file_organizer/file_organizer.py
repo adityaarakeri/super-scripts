@@ -9,7 +9,7 @@ video = ['mp4','avi','3gp','mpg','mov','mkv','m4v','flv']
 audio = ['mp3','wav','ogg']
 
 def group_files(path,filename):
-    file_format = filename.split('.')[1].lower()
+    file_format = filename.split('.')[-1].lower()
     if file_format in docs:
         folder = 'Documents'
     elif file_format in torrent:
@@ -33,6 +33,7 @@ if (len(sys.argv) != 2):
     print('Wrong command! Please use format "python3 FileOrganizer.py <directory to organize>"')
 else:    
     path = sys.argv[1]
+    os.chdir(path)
     files = filter(os.path.isfile, os.listdir( os.curdir ) )  # files only
     files = [ f for f in os.listdir( os.curdir ) if os.path.isfile(f) ] #list comprehension version
 
