@@ -11,7 +11,7 @@ Just open your command line tools and run the python scripts followed by the dir
 ## Specification
 For this version, the files will be grouped into these folders based on the file format:
 
-* Documents (.pdf, .docx, .xlsx, .doc, .odt, .ipynb, .md, .csv)
+* Documents (.pdf, .docx, .xlsx, .doc, .odt, .ipynb, .md, .csv, pptx, ppt)
 * Videos (.mp4, .avi, .3gp, .mpg, .mov, .mkv, .m4v, .flv)
 * Audios (.mp3, .wav, .ogg)
 * Images (.jpg, .jpeg, .png)
