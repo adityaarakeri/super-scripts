@@ -7,7 +7,7 @@ Just open your command line tools and run the python scripts followed by the dir
 **Example**:
 
     python3 FileOrganizer.py <directory>
-
+    <directory> value example - C:\Users\user-pc\Downloads\
 ## Specification
 For this version, the files will be grouped into these folders based on the file format:
 
