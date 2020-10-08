@@ -2,7 +2,7 @@ import os
 import shutil
 import sys
 
-docs = ['pdf','docx','xlsx','doc','odt','ipynb','md','csv']
+docs = ['pdf','docx','xlsx','doc','odt','ipynb','md','csv','pptx','ppt']
 torrent = ['torrent']
 image = ['jpg','png','bmp']
 video = ['mp4','avi','3gp','mpg','mov','mkv','m4v','flv']
