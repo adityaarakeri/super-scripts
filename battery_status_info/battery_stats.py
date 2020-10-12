@@ -36,4 +36,4 @@ def batteryStatus():
     else:
         pass
 
-# batteryStatus()
+batteryStatus()
