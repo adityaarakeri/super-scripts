@@ -3,7 +3,8 @@ PowerShell GUI made to set up, remove and view fowarding for users in an organiz
 
 # Pre-reqs 
 
-To start using this, you need exchange administrative credentials, and to properly configure the config.xml file. 
+To start using this, you need exchange administrative credentials, and to properly create and configure a 'config.xml' file. 
+(I've included the config.psm1 for you to import in poewrshell, set the fields and export to a xml file.) 
 "ContentPath" - The full path of the "additonal" folder, or whatever your iconts, graphics, are (and where the config should be) stored in.
 "BlackListedUsers" - Users you'd like to prevent setting modification on. 
 "Department" - This is set up currently to look for a distrobution group.  Some tinkering would be required to change it, but it can modifed to take a user list from a different source. 
