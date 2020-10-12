@@ -4,6 +4,10 @@
 - Please make sure you create a seperate folder for your script
 - Each folder needs to have the script and a detailed readme of what the script would do
 - Please do not add any binary or executable files
+- For node projects, please do not upload `node_modules`
+- For python projects, please do not upload dependencies, use requirements.txt or a Pipfile to manage dependencies
+- Please do not submit very simple scripts which does simple tasks which could be accomplished by some system command
+- Please do not submit a PR with multiple files, the script should be self contained
 
 ### Opening Issues
 - When you open an issue, please make sure the script does not already exist
@@ -19,3 +23,4 @@
 - Ones you are assigned to
 - Your PR has to link the Issue
 - PR's with out any binary or executable files
+- PR's which contains less than 10 files
