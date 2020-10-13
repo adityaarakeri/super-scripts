@@ -31,6 +31,8 @@ A list of super awesome scripts which help automate the boring tasks.
 
 | [git_email_change](https://github.com/adityaarakeri/super-scripts/tree/master/git_email_change) | [Adi](https://github.com/adityaarakeri) |
 
+| [hulk](https://github.com/adityaarakeri/hulk) | [Adi](https://github.com/adityaarakeri) |
+
 | [linux_free_up_space](https://github.com/vpatiltech/super-scripts/tree/vpatiltech/linux_free_up_space) | [V Patil](https://github.com/vpatiltech) |
 
 | [linux_lock_with_usb_protection](https://github.com/Anarcroth/super-scripts/tree/feature/add-linux-lock-with-usb-protection) | [Anarcroth](https://github.com/Anarcroth) |
