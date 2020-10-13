@@ -19,8 +19,6 @@ A list of super awesome scripts which help automate the boring tasks.
 
 | [comic_dl](https://github.com/adityaarakeri/super-scripts/tree/master/comic_dl) | [Xonshiz](https://github.com/Xonshiz) |
 
-| [create_whats_app_group](https://github.com/vpatiltech/super-scripts/tree/master/create_whatsapp_group) | [Dinesh Ch](https://github.com/chdinesh1089) |
-
 | [dotfiles](https://github.com/adityaarakeri/super-scripts/tree/master/dotfiles) | [2KAbhishek](https://github.com/2KAbhishek) |
 
 | [file_encrypt_decrypt](https://github.com/adityaarakeri/super-scripts/tree/master/file_encrypt_decrypt) | [Adi](https://github.com/adityaarakeri) |
@@ -45,25 +43,15 @@ A list of super awesome scripts which help automate the boring tasks.
 
 | [mouse_keyboard_automator](https://github.com/adityaarakeri/super-scripts/tree/master/mouse_keyboard_automator) | [Rafed](https://github.com/rafed123) |
 
-| [Movie_Recommendation](https://github.com/adityaarakeri/super-scripts/tree/master/Movie_Recommendation) | [vish1811](https://github.com/vish1811)
-
-| [portScanner](https://github.com/adityaarakeri/super-scripts/tree/master/portScanner) | [nitish](https://github.com/nitishsai9) |
-
 | [raw_to_jpeg](https://github.com/adityaarakeri/super-scripts/tree/master/raw_to_jpeg) | [Sadeed](https://github.com/Sadeed)
 
 | [rename_images_exif_date](https://github.com/adityaarakeri/super-scripts/tree/master/rename_images_exif_date) | [asperduti](https://github.com/asperduti) |
 
 | [scrape_googlemaps_search_data](https://github.com/chdinesh1089/super-scripts/tree/googlemaps_scraper/scrape_googlemaps_search_data) | [Dinesh Ch](https://github.com/chdinesh1089) |
 
-| [Sha1-brutefore](https://github.com/adityaarakeri/super-scripts/tree/master/Sha1-brutefore) | [nitish](https://github.com/nitishsai9) |
-
-| [tambola_ticket_generator](https://github.com/adityaarakeri/super-scripts/tree/master/Tambola_ticket_generator) | [Synster](https://github.com/Synster) |
-
 | [translate_excel](https://github.com/adityaarakeri/super-scripts/tree/master/translate_excel) | [loukotal](https://github.com/loukotal) |
 
 | [video_length_calculator](https://github.com/adityaarakeri/super-scripts/tree/master/video_length_calculator) | [ali-abz](https://github.com/ali-abz) |
-
-| [weather_in_a_city](https://github.com/adityaarakeri/super-scripts/tree/master/weather_in_a_city) | [vish1811](https://github.com/vish1811)
 
 | [web scrapper](https://github.com/chetan-hireholi/super-scripts/tree/chetan-hireholi-patch-scrapper-file/web-scrapper) | [chetan-hireholi](chetan-hireholi)
 
