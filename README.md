@@ -15,8 +15,6 @@ A list of super awesome scripts which help automate the boring tasks.
 
 | [autofill_information](https://github.com/adityaarakeri/super-scripts/tree/master/autofill_information) | [pcube99](https://github.com/pcube99)
 
-| [autofill_information](https://github.com/adityaarakeri/super-scripts/tree/master/autofill_information) | [pcube99](https://github.com/pcube99) |
-
 | [bootstrap_mac_dev_env](https://github.com/dirtyonekanobi/super-scripts/tree/bootstrap-dev/bootstrap_mac_dev_env) | [dirtyoneanobi](https://github.com/dirtyonekanobi) |
 
 | [comic_dl](https://github.com/adityaarakeri/super-scripts/tree/master/comic_dl) | [Xonshiz](https://github.com/Xonshiz) |
@@ -41,25 +39,17 @@ A list of super awesome scripts which help automate the boring tasks.
 
 | [loop_command](https://github.com/adityaarakeri/super-scripts/tree/master/loop_command) | [jeancsil](https://github.com/jeancsil)
 
-| [loop_command](https://github.com/adityaarakeri/super-scripts/tree/master/loop_command) | [jeancsil](https://github.com/jeancsil) |
-
 | [mac_bluetooth_connectors](https://github.com/Narong-Kanthnu/super-scripts/tree/master/mac_bluetooth_connectors) | [Narong](https://github.com/Narong-Kanthnu) |
 
 | [makere](https://github.com/adityaarakeri/super-scripts/tree/master/makere) | [aksJain0](https://github.com/aksJain0)
-
-| [makere](https://github.com/adityaarakeri/super-scripts/tree/master/makere) | [aksJain0](https://github.com/aksJain0)|
 
 | [mouse_keyboard_automator](https://github.com/adityaarakeri/super-scripts/tree/master/mouse_keyboard_automator) | [Rafed](https://github.com/rafed123) |
 
 | [Movie_Recommendation](https://github.com/adityaarakeri/super-scripts/tree/master/Movie_Recommendation) | [vish1811](https://github.com/vish1811)
 
-| [Movie_Recommendation](https://github.com/adityaarakeri/super-scripts/tree/master/Movie_Recommendation) | [vish1811](https://github.com/vish1811) |
-
 | [portScanner](https://github.com/adityaarakeri/super-scripts/tree/master/portScanner) | [nitish](https://github.com/nitishsai9) |
 
 | [raw_to_jpeg](https://github.com/adityaarakeri/super-scripts/tree/master/raw_to_jpeg) | [Sadeed](https://github.com/Sadeed)
-
-| [raw_to_jpeg](https://github.com/adityaarakeri/super-scripts/tree/master/raw_to_jpeg) | [Sadeed](https://github.com/Sadeed) |
 
 | [rename_images_exif_date](https://github.com/adityaarakeri/super-scripts/tree/master/rename_images_exif_date) | [asperduti](https://github.com/asperduti) |
 
@@ -74,8 +64,6 @@ A list of super awesome scripts which help automate the boring tasks.
 | [video_length_calculator](https://github.com/adityaarakeri/super-scripts/tree/master/video_length_calculator) | [ali-abz](https://github.com/ali-abz) |
 
 | [weather_in_a_city](https://github.com/adityaarakeri/super-scripts/tree/master/weather_in_a_city) | [vish1811](https://github.com/vish1811)
-
-| [weather_in_a_city](https://github.com/adityaarakeri/super-scripts/tree/master/weather_in_a_city) | [vish1811](https://github.com/vish1811) |
 
 | [web scrapper](https://github.com/chetan-hireholi/super-scripts/tree/chetan-hireholi-patch-scrapper-file/web-scrapper) | [chetan-hireholi](chetan-hireholi)
 
