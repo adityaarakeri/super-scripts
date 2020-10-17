@@ -44,6 +44,7 @@ A list of super awesome scripts which help automate the boring tasks.
 | [mac_bluetooth_connectors](https://github.com/Narong-Kanthnu/super-scripts/tree/master/mac_bluetooth_connectors) | [Narong](https://github.com/Narong-Kanthnu) |
 | [dotfiles](https://github.com/adityaarakeri/super-scripts/tree/master/dotfiles) | [2KAbhishek](https://github.com/2KAbhishek) |
 | [tambola_ticket_generator](https://github.com/adityaarakeri/super-scripts/tree/master/Tambola_ticket_generator) | [Synster](https://github.com/Synster) |
+| [youtube_playlist_to_mp3](https://github.com/adityaarakeri/super-scripts/tree/master/youtube_playlist_to_mp3) | [zealberth](https://github.com/zealberth) |
 
 
 ## Contribuition Guidelines
