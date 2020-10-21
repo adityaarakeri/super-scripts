@@ -9,16 +9,16 @@ A list of super awesome scripts which help automate the boring tasks.
 |--|--|
 |[file_encrypt_decrypt](https://github.com/adityaarakeri/super-scripts/tree/master/file_encrypt_decrypt) | [Adi](https://github.com/adityaarakeri) |
 |[git_email_change](https://github.com/adityaarakeri/super-scripts/tree/master/git_email_change) | [Adi](https://github.com/adityaarakeri) |
-|[app_opener](https://github.com/adityaarakeri/super-scripts/tree/master/app_opener) | [U-ways](https://github.com/U-ways) |
+|[App_Opener](https://github.com/adityaarakeri/super-scripts/tree/master/app_opener) | [U-ways](https://github.com/U-ways) |
 | [Ad_Change_Check](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Ad_Change_Check) | [jscooksey](https://github.com/jscooksey)|
 | [folder_autosync](https://github.com/adityaarakeri/super-scripts/tree/master/folder_autosync) | [szhou42](https://github.com/szhou42) |
 |[video_length_calculator](https://github.com/adityaarakeri/super-scripts/tree/master/video_length_calculator) | [ali-abz](https://github.com/ali-abz) |
-| [arch_linux](https://github.com/adityaarakeri/super-scripts/tree/master/arch_linux) | [crouther](https://github.com/crouther) |
+| [Arch_Linux](https://github.com/adityaarakeri/super-scripts/tree/master/arch_linux) | [crouther](https://github.com/crouther) |
 | [wifi_to_eth](https://github.com/adityaarakeri/super-scripts/tree/master/wifi_to_eth) | [crouther](https://github.com/crouther) |
 |[file_finder](https://github.com/adityaarakeri/super-scripts/tree/master/file_finder) | [poszy](https://github.com/poszy) |
 | [makere](https://github.com/adityaarakeri/super-scripts/tree/master/makere) | [aksJain0](https://github.com/aksJain0)
 |[loop_command](https://github.com/adityaarakeri/super-scripts/tree/master/loop_command) | [jeancsil](https://github.com/jeancsil)
-| [autofill_information](https://github.com/adityaarakeri/super-scripts/tree/master/autofill_information) | [pcube99](https://github.com/pcube99)
+| [Autofill_Information](https://github.com/adityaarakeri/super-scripts/tree/master/autofill_information) | [pcube99](https://github.com/pcube99)
 |[raw_to_jpeg](https://github.com/adityaarakeri/super-scripts/tree/master/raw_to_jpeg) | [Sadeed](https://github.com/Sadeed)
 | [weather_in_a_city](https://github.com/adityaarakeri/super-scripts/tree/master/weather_in_a_city) | [vish1811](https://github.com/vish1811)
 | [Movie_Recommendation](https://github.com/adityaarakeri/super-scripts/tree/master/Movie_Recommendation) | [vish1811](https://github.com/vish1811)
@@ -27,7 +27,7 @@ A list of super awesome scripts which help automate the boring tasks.
 |[Sha1-brutefore](https://github.com/adityaarakeri/super-scripts/tree/master/Sha1-brutefore) | [nitish](https://github.com/nitishsai9) |
 |[portScanner](https://github.com/adityaarakeri/super-scripts/tree/master/portScanner) | [nitish](https://github.com/nitishsai9) |
 |[loop_command](https://github.com/adityaarakeri/super-scripts/tree/master/loop_command) | [jeancsil](https://github.com/jeancsil) |
-| [autofill_information](https://github.com/adityaarakeri/super-scripts/tree/master/autofill_information) | [pcube99](https://github.com/pcube99) |
+| [Autofill_Information](https://github.com/adityaarakeri/super-scripts/tree/master/autofill_information) | [pcube99](https://github.com/pcube99) |
 |[raw_to_jpeg](https://github.com/adityaarakeri/super-scripts/tree/master/raw_to_jpeg) | [Sadeed](https://github.com/Sadeed) |
 |[rename_images_exif_date](https://github.com/adityaarakeri/super-scripts/tree/master/rename_images_exif_date) | [asperduti](https://github.com/asperduti) |
 | [weather_in_a_city](https://github.com/adityaarakeri/super-scripts/tree/master/weather_in_a_city) | [vish1811](https://github.com/vish1811) |
