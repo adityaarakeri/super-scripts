@@ -7,59 +7,53 @@ A list of super awesome scripts which help automate the boring tasks.
 ## So far added
 | Script | Contributor|
 |--|--|
-|[file_encrypt_decrypt](https://github.com/adityaarakeri/super-scripts/tree/master/file_encrypt_decrypt) | [Adi](https://github.com/adityaarakeri) |
-|[git_email_change](https://github.com/adityaarakeri/super-scripts/tree/master/git_email_change) | [Adi](https://github.com/adityaarakeri) |
-|[App_Opener](https://github.com/adityaarakeri/super-scripts/tree/master/app_opener) | [U-ways](https://github.com/U-ways) |
+|[File_Encrypt_Decrypt](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/File_Encrypt_Decrypt) | [Adi](https://github.com/adityaarakeri) |
+|[Git_Email_Change](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Git_Email_Change) | [Adi](https://github.com/adityaarakeri) |
+|[App_Opener](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/App_Opener) | [U-ways](https://github.com/U-ways) |
 | [Ad_Change_Check](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Ad_Change_Check) | [jscooksey](https://github.com/jscooksey)|
-| [folder_autosync](https://github.com/adityaarakeri/super-scripts/tree/master/folder_autosync) | [szhou42](https://github.com/szhou42) |
-|[video_length_calculator](https://github.com/adityaarakeri/super-scripts/tree/master/video_length_calculator) | [ali-abz](https://github.com/ali-abz) |
-| [Arch_Linux](https://github.com/adityaarakeri/super-scripts/tree/master/arch_linux) | [crouther](https://github.com/crouther) |
-| [wifi_to_eth](https://github.com/adityaarakeri/super-scripts/tree/master/wifi_to_eth) | [crouther](https://github.com/crouther) |
-|[file_finder](https://github.com/adityaarakeri/super-scripts/tree/master/file_finder) | [poszy](https://github.com/poszy) |
-| [makere](https://github.com/adityaarakeri/super-scripts/tree/master/makere) | [aksJain0](https://github.com/aksJain0)
-|[loop_command](https://github.com/adityaarakeri/super-scripts/tree/master/loop_command) | [jeancsil](https://github.com/jeancsil)
-| [Autofill_Information](https://github.com/adityaarakeri/super-scripts/tree/master/autofill_information) | [pcube99](https://github.com/pcube99)
-|[raw_to_jpeg](https://github.com/adityaarakeri/super-scripts/tree/master/raw_to_jpeg) | [Sadeed](https://github.com/Sadeed)
-| [weather_in_a_city](https://github.com/adityaarakeri/super-scripts/tree/master/weather_in_a_city) | [vish1811](https://github.com/vish1811)
-| [Movie_Recommendation](https://github.com/adityaarakeri/super-scripts/tree/master/Movie_Recommendation) | [vish1811](https://github.com/vish1811)
-| [web scrapper](https://github.com/chetan-hireholi/super-scripts/tree/chetan-hireholi-patch-scrapper-file/web-scrapper) | [chetan-hireholi](chetan-hireholi)
-| [makere](https://github.com/adityaarakeri/super-scripts/tree/master/makere) | [aksJain0](https://github.com/aksJain0)|
-|[Sha1-brutefore](https://github.com/adityaarakeri/super-scripts/tree/master/Sha1-brutefore) | [nitish](https://github.com/nitishsai9) |
-|[portScanner](https://github.com/adityaarakeri/super-scripts/tree/master/portScanner) | [nitish](https://github.com/nitishsai9) |
-|[loop_command](https://github.com/adityaarakeri/super-scripts/tree/master/loop_command) | [jeancsil](https://github.com/jeancsil) |
-| [Autofill_Information](https://github.com/adityaarakeri/super-scripts/tree/master/autofill_information) | [pcube99](https://github.com/pcube99) |
-|[raw_to_jpeg](https://github.com/adityaarakeri/super-scripts/tree/master/raw_to_jpeg) | [Sadeed](https://github.com/Sadeed) |
-|[rename_images_exif_date](https://github.com/adityaarakeri/super-scripts/tree/master/rename_images_exif_date) | [asperduti](https://github.com/asperduti) |
-| [weather_in_a_city](https://github.com/adityaarakeri/super-scripts/tree/master/weather_in_a_city) | [vish1811](https://github.com/vish1811) |
-| [Movie_Recommendation](https://github.com/adityaarakeri/super-scripts/tree/master/Movie_Recommendation) | [vish1811](https://github.com/vish1811) |
-| [translate_excel](https://github.com/adityaarakeri/super-scripts/tree/master/translate_excel) | [loukotal](https://github.com/loukotal) |
-| [linux_free_up_space](https://github.com/vpatiltech/super-scripts/tree/vpatiltech/linux_free_up_space) | [V Patil](https://github.com/vpatiltech) |
-| [file_organizer](https://github.com/adityaarakeri/super-scripts/tree/master/file_organizer) | [alifalfa73](https://github.com/AlifAlfa73) |
-| [scrape_googlemaps_search_data](https://github.com/chdinesh1089/super-scripts/tree/googlemaps_scraper/scrape_googlemaps_search_data) | [Dinesh Ch](https://github.com/chdinesh1089) |
-| [create_whats_app_group](https://github.com/vpatiltech/super-scripts/tree/master/create_whatsapp_group) | [Dinesh Ch](https://github.com/chdinesh1089) |
-| [bootstrap_mac_dev_env](https://github.com/dirtyonekanobi/super-scripts/tree/bootstrap-dev/bootstrap_mac_dev_env) | [dirtyoneanobi](https://github.com/dirtyonekanobi) |
-| [linux_lock_with_usb_protection](https://github.com/Anarcroth/super-scripts/tree/feature/add-linux-lock-with-usb-protection) | [Anarcroth](https://github.com/Anarcroth) |
-| [mouse_keyboard_automator](https://github.com/adityaarakeri/super-scripts/tree/master/mouse_keyboard_automator) | [Rafed](https://github.com/rafed123) |
-| [comic_dl](https://github.com/adityaarakeri/super-scripts/tree/master/comic_dl) | [Xonshiz](https://github.com/Xonshiz) |
-| [mac_bluetooth_connectors](https://github.com/Narong-Kanthnu/super-scripts/tree/master/mac_bluetooth_connectors) | [Narong](https://github.com/Narong-Kanthnu) |
-| [dotfiles](https://github.com/adityaarakeri/super-scripts/tree/master/dotfiles) | [2KAbhishek](https://github.com/2KAbhishek) |
-| [discord_chat](https://github.com/adityaarakeri/super-scripts/tree/master/discord_chat) | [LiTO773](https://github.com/LiTO773) |
-| [indeed_scrapper](https://github.com/adityaarakeri/super-scripts/tree/master/indeed_scrapper) | [Adnan Muhib](https://github.com/AdnanMuhib) |
-| [tambola_ticket_generator](https://github.com/adityaarakeri/super-scripts/tree/master/Tambola_ticket_generator) | [Synster](https://github.com/Synster) |
-| [youtube_playlist_to_mp3](https://github.com/adityaarakeri/super-scripts/tree/master/youtube_playlist_to_mp3) | [zealberth](https://github.com/zealberth) |
+| [Folder_Autosync](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Folder_Autosync) | [szhou42](https://github.com/szhou42) |
+|[Video_Length_Calculator](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Video_Length_Calculator) | [ali-abz](https://github.com/ali-abz) |
+| [Arch_Linux](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Arch_Linux) | [crouther](https://github.com/crouther) |
+| [Wifi_To_Eth](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Wifi_To_Eth) | [crouther](https://github.com/crouther) |
+|[File_Finder](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/File_Finder) | [poszy](https://github.com/poszy) |
+| [Makere](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Makere) | [aksJain0](https://github.com/aksJain0)
+|[Loop_Command](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Loop_Command) | [jeancsil](https://github.com/jeancsil)
+| [Autofill_Information](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Autofill_Information) | [pcube99](https://github.com/pcube99)
+|[Raw_To_Jpeg](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Raw_To_Jpeg) | [Sadeed](https://github.com/Sadeed)
+| [Movie_Recommendation](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Movie_Recommendation) | [vish1811](https://github.com/vish1811)
+| [Web_Scrapper](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Web_Scrapper) | [chetan-hireholi](chetan-hireholi)
+|[Loop_Command](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Loop_Command) | [jeancsil](https://github.com/jeancsil) |
+| [Autofill_Information](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Autofill_Information) | [pcube99](https://github.com/pcube99) |
+|[Raw_To_Jpeg](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Raw_To_Jpeg) | [Sadeed](https://github.com/Sadeed) |
+|[Rename_Images_Exif_Date](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Rename_Images_Exif_Date) | [asperduti](https://github.com/asperduti) |
+| [Translate_Excel](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Translate_Excel) | [loukotal](https://github.com/loukotal) |
+| [Linux_Free_Up_Space](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Linux_Free_Up_Space) | [V Patil](https://github.com/vpatiltech) |
+| [File_Organizer](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/File_Organizer) | [alifalfa73](https://github.com/AlifAlfa73) |
+| [Scrape_Googlemaps_Search_Data](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Scrape_Googlemaps_Search_Data) | [Dinesh Ch](https://github.com/chdinesh1089) |
+| [Create_Whatsapp_Group](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Create_Whatsapp_Group) | [Dinesh Ch](https://github.com/chdinesh1089) |
+| [Bootstrap_Mac_Dev_Env](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Bootstrap_Mac_Dev_Env) | [dirtyoneanobi](https://github.com/dirtyonekanobi) |
+| [Linux_Lock_With_Usb_Protection](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Linux_Lock_With_Usb_Protection) | [Anarcroth](https://github.com/Anarcroth) |
+| [Mouse_Keyboard_Automator](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Mouse_Keyboard_Automator) | [Rafed](https://github.com/rafed123) |
+| [Comic_Dl](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Comic_Dl) | [Xonshiz](https://github.com/Xonshiz) |
+| [Mac_Bluetooth_Connectors](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Mac_Bluetooth_Connectors) | [Narong](https://github.com/Narong-Kanthnu) |
+| [Dot_Files](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Dot_Files) | [2KAbhishek](https://github.com/2KAbhishek) |
+| [Discord_Chat](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Discord_Chat) | [LiTO773](https://github.com/LiTO773) |
+| [Indeed_Scrapper](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Indeed_Scrapper) | [Adnan Muhib](https://github.com/AdnanMuhib) |
+| [Tambola_Ticket_Generator](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Tambola_Ticket_Generator) | [Synster](https://github.com/Synster) |
+| [Youtube_Playlist_To_Mp3](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Youtube_Playlist_To_Mp3) | [zealberth](https://github.com/zealberth) |
 
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
-- The script can be in any language
+- The script can be in any language.
 - Script and folder naming convention (Use underscore only)
 	- :x: Script Name
 	- :x: Folder-Name
-	- :heavy_check_mark: script_name
-	- :heavy_check_mark: folder_name
-- The folder should contain the followings -
-	- Main Script,
+	- :heavy_check_mark: Script_Name
+	- :heavy_check_mark: Folder_Name
+- The folder should contain the following -
+	- Main Script
 	- Supporting files for the script
 	- A separate `README.md` file with proper documentation.
 
-**note**: feel free to add your project to the list of scripts
+**note**: feel free to add your project to the list of scripts.
