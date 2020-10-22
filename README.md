@@ -4,7 +4,7 @@
 ## What's in this repo?
 A list of super awesome scripts which help automate the boring tasks.
 
-## So far added
+## So far added 💃💃
 | Script | Contributor|
 |--|--|
 | [Ad_Change_Check](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Ad_Change_Check) | [jscooksey](https://github.com/jscooksey) |
@@ -40,20 +40,22 @@ A list of super awesome scripts which help automate the boring tasks.
 | [Youtube_Playlist_To_Mp3](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Youtube_Playlist_To_Mp3) | [zealberth](https://github.com/zealberth) |
 
 
-## Contribuition Guidelines
-- Make a **separate folder** for your script.
+## Contribution Guidelines
+- Create a **separate folder** for your script inside the [scripts](#) folder.
 - The script can be in any language.
 
-- Script and folder naming convention (Use underscore only)
+- Script and folder naming convention (Only use underscore):
 	- :x: Script Name
 	- :x: Folder-Name
 	- :x: folder_name
 	- :heavy_check_mark: Script_Name
 	- :heavy_check_mark: Folder_Name
-	
+
 - The folder should contain the following:
 	- Main Script
 	- Supporting files for the script
 	- A separate `README.md` file with proper documentation.
 
-**note**: feel free to add your project to the list of scripts. They have been arranged in alphabetical order according to Script folder name.
+## Adding your Project to the List of Scripts
+
+Please feel free to add your project to the list of scripts. They have been arranged in alphabetical order according to script folder name.
