@@ -1,0 +1,9 @@
+
+function triggerEmail(e)
+{
+  var sheet = SpreadsheetApp.getActiveSheet();
+  var name = sheet.getRange(e.range.rowStart,2).getValue();  
+  var emailID = sheet.getRange(e.range.rowStart,6).getValue(); 
+
+  MailApp.sendEmail(emailID, "Welcome "+ name, "Hi "+ name + ", Thanks for joining, you will receive a call from us soon.");
+}
