@@ -49,16 +49,16 @@ A list of super awesome scripts which help automate the boring tasks.
 | [youtube_playlist_to_mp3](https://github.com/adityaarakeri/super-scripts/tree/master/youtube_playlist_to_mp3) | [zealberth](https://github.com/zealberth) |
 
 
-## Contribuition Guidelines
-- Make a **separate folder** for your script.
+## Contribution Guidelines
+- Create a **separate folder** for your script.
 - The script can be in any language
-- Script and folder naming convention (Use underscore only)
+- Script and folder naming conventions (Use underscore only)
 	- :x: Script Name
 	- :x: Folder-Name
 	- :heavy_check_mark: script_name
 	- :heavy_check_mark: folder_name
-- The folder should contain the followings -
-	- Main Script,
+- The folder should contain the following -
+	- Main Script
 	- Supporting files for the script
 	- A separate `README.md` file with proper documentation.
 
