@@ -17,6 +17,7 @@ A list of super awesome scripts which help automate the boring tasks.
 | [wifi_to_eth](https://github.com/adityaarakeri/super-scripts/tree/master/wifi_to_eth) | [crouther](https://github.com/crouther) |
 |[file_finder](https://github.com/adityaarakeri/super-scripts/tree/master/file_finder) | [poszy](https://github.com/poszy) |
 | [makere](https://github.com/adityaarakeri/super-scripts/tree/master/makere) | [aksJain0](https://github.com/aksJain0)
+|[tsv](https://github.com/adityaarakeri/super-scripts/tree/master/tsv) | [jeancsil](https://github.com/jeancsil)
 |[weather](https://github.com/adityaarakeri/super-scripts/tree/master/weather) | [jeancsil](https://github.com/jeancsil)
 |[loop_command](https://github.com/adityaarakeri/super-scripts/tree/master/loop_command) | [jeancsil](https://github.com/jeancsil)
 | [autofill_information](https://github.com/adityaarakeri/super-scripts/tree/master/autofill_information) | [pcube99](https://github.com/pcube99)
@@ -49,7 +50,6 @@ A list of super awesome scripts which help automate the boring tasks.
 | [indeed_scrapper](https://github.com/adityaarakeri/super-scripts/tree/master/indeed_scrapper) | [Adnan Muhib](https://github.com/AdnanMuhib) |
 | [tambola_ticket_generator](https://github.com/adityaarakeri/super-scripts/tree/master/Tambola_ticket_generator) | [Synster](https://github.com/Synster) |
 | [youtube_playlist_to_mp3](https://github.com/adityaarakeri/super-scripts/tree/master/youtube_playlist_to_mp3) | [zealberth](https://github.com/zealberth) |
-
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
