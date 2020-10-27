@@ -1,0 +1,4 @@
+[telegram]
+api_id = <apiid>
+api_hash = <apihash>
+phone = <phonenumber>

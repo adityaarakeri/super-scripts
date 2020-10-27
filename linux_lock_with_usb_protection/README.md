@@ -1,0 +1,15 @@
+# i3lock with usb protection
+
+This is a quick rundown on what the `lock` script does.
+
+**NOTE** - the rest of the script, that surrounds the `sudo bash` commands and the python calls, is used to make the screen actually lock, you can skip over it, if you want to.
+
+Since modern Linux kernel versions have disabled the option the stop the power supply to your USB's, we have to rely on the power of `udev` and `udevadm`. What we are trying to achieve is simple, when `i3lock` is running, make sure that the `OS` is not accepting or reading any USB's. Although `udev` reads a lot of configuration for a lot of pieces of hardware, we are going to tell it to disable to access to some of the buses.
+
+First of all, we need to understand which USB ports are used by our machine, since some transfer audio data, other video data, etc, it's a good idea to not wing it and randomly select a USB device. That being said, there are several ways that we can check our ports. `udevadm info -a -p /sys/bus/usb/devices/usb*/X-X` gives a detailed description of your devices. You might notice that some of them are `wlan`s, video ports, etc. `cat /sys/bus/usb/devices/usb*/X-X/authorized` will return either **1** (for being on) or **0**, which tells us if this device is turned on or not (logically). `lsusb` and `lsusb -t` give out similar information in a more neat way, but it's not as detailed. Of course, `ls /sys/bus/usb/devices/` digging in this folder is very beneficial, because we can get familiar with our devices.
+
+After some test commands, we are aware under what USB number are our ports. We can take a simple approach and just disable them, yes, all of them. Everything that is not already plugged in, will not be accepted by our `OS`. Keep in mind that the system *will* know about it if a device is inserted, but it will not allow access to it. We can do this by the command `sudo bash -c "echo 0 > /sys/bus/usb/devices/usb3/authorized_default"`. When we call this, until we do a `reboot` or call the reverse command (which is `➜ sudo bash -c "echo 1 > /sys/bus/usb/devices/usb3/authorized_default"`), our USB ports are rendered useless. If you are feeling adventurous, you can play around with this, `grep` specific devices, like mice and keyboard, and *whitelist* them.
+
+As far as the `python` script goes, we are using a package `pyudev` that listens for such connections. If it happens to see a USB connect, while the PC is locked, it will execute the great sounds of **The Prodigy**, thus scaring off any malicious hacker (other acceptible songs that will fit nicely are [the speech by Jules from Pulp Fiction](https://www.youtube.com/watch?v=pRE23YfSvc8) and [the opening scene from "Full Metal Jacket"](https://www.youtube.com/watch?v=3j3_iPskjxk)). The script is dependent on `mplayer`, so make sure you have that as well.
+
+For a more detailed information about how we might approach this problem, you can check out the amazing paper by [Adrain Crenshaw](http://www.irongeek.com/i.php?page=security/plug-and-prey-malicious-usb-devices#3.2_Locking_down_Linux_using_UDEV).

@@ -1,0 +1,11 @@
+{
+  "name": "should-i-run-it",
+  "version": "1.0.0",
+  "description": "This script detect if something changed in your project folder.",
+  "scripts": {
+    "prestart": "node should-i-run-it.js my-project-dir",
+    "start": "node ./my-project-dir/index.js "
+  },
+  "author": "gioboa",
+  "license": "MIT"
+}
