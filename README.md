@@ -61,4 +61,5 @@ A list of super awesome scripts which help automate the boring tasks.
 
 ## Adding your Project to the List of Scripts
 
-Please feel free to add your project to the list of scripts. They have been arranged in alphabetical order according to script folder name.
+- Please feel free to add your project to the list of scripts. They have been arranged in alphabetical order     according to script folder name.
+- Make sure the link to your script is working.
