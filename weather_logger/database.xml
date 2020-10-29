@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 4.8.3
+- https://www.phpmyadmin.net
+-
+- Host: localhost:3306
+- Generation Time: Oct 26, 2020 at 12:21 PM
+- Server version: 5.7.30-0ubuntu0.18.04.1
+- PHP Version: 7.2.24-0ubuntu0.18.04.6
+-->
+
+<pma_xml_export version="1.0" xmlns:pma="https://www.phpmyadmin.net/some_doc_url/">
+    <!--
+    - Structure schemas
+    -->
+    <pma:structure_schemas>
+        <pma:database name="shedmonitor" collation="utf8_general_ci" charset="utf8">
+            <pma:table name="weather">
+                CREATE TABLE `weather` (
+                  `weatherID` int(11) NOT NULL AUTO_INCREMENT,
+                  `temp` decimal(5,2) DEFAULT NULL,
+                  `feelsLike` decimal(5,2) DEFAULT NULL,
+                  `pressure` decimal(15,2) DEFAULT NULL,
+                  `humidity` decimal(5,2) DEFAULT NULL,
+                  `readingTime` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+                  PRIMARY KEY (`weatherID`)
+                ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+            </pma:table>
+        </pma:database>
+    </pma:structure_schemas>
+</pma_xml_export>

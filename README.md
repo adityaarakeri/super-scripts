@@ -8,6 +8,7 @@ A list of super awesome scripts which help automate the boring tasks.
 | Script | Contributor|
 |--|--|
 |[file_encrypt_decrypt](https://github.com/adityaarakeri/super-scripts/tree/master/file_encrypt_decrypt) | [Adi](https://github.com/adityaarakeri) |
+|[git_email_change](https://github.com/adityaarakeri/super-scripts/tree/master/git_email_change) | [Adi](https://github.com/adityaarakeri) |
 |[app_opener](https://github.com/adityaarakeri/super-scripts/tree/master/app_opener) | [U-ways](https://github.com/U-ways) |
 | [ad_change_check](https://github.com/adityaarakeri/super-scripts/tree/master/ad_change_check) | [jscooksey](https://github.com/jscooksey)|
 | [folder_autosync](https://github.com/adityaarakeri/super-scripts/tree/master/folder_autosync) | [szhou42](https://github.com/szhou42) |
@@ -16,6 +17,8 @@ A list of super awesome scripts which help automate the boring tasks.
 | [wifi_to_eth](https://github.com/adityaarakeri/super-scripts/tree/master/wifi_to_eth) | [crouther](https://github.com/crouther) |
 |[file_finder](https://github.com/adityaarakeri/super-scripts/tree/master/file_finder) | [poszy](https://github.com/poszy) |
 | [makere](https://github.com/adityaarakeri/super-scripts/tree/master/makere) | [aksJain0](https://github.com/aksJain0)
+|[tsv](https://github.com/adityaarakeri/super-scripts/tree/master/tsv) | [jeancsil](https://github.com/jeancsil)
+|[weather](https://github.com/adityaarakeri/super-scripts/tree/master/weather) | [jeancsil](https://github.com/jeancsil)
 |[loop_command](https://github.com/adityaarakeri/super-scripts/tree/master/loop_command) | [jeancsil](https://github.com/jeancsil)
 | [autofill_information](https://github.com/adityaarakeri/super-scripts/tree/master/autofill_information) | [pcube99](https://github.com/pcube99)
 |[raw_to_jpeg](https://github.com/adityaarakeri/super-scripts/tree/master/raw_to_jpeg) | [Sadeed](https://github.com/Sadeed)
@@ -43,7 +46,11 @@ A list of super awesome scripts which help automate the boring tasks.
 | [mac_bluetooth_connectors](https://github.com/Narong-Kanthnu/super-scripts/tree/master/mac_bluetooth_connectors) | [Narong](https://github.com/Narong-Kanthnu) |
 | [dotfiles](https://github.com/adityaarakeri/super-scripts/tree/master/dotfiles) | [2KAbhishek](https://github.com/2KAbhishek) |
 | [go_binary_compiler](https://github.com/adityaarakeri/super-scripts/tree/master/go_binary_compiler) | [KwanJunWen](https://github.com/KwanJunWen) |
-
+| [scheduled_shutdown](https://github.com/tdchua/super-scripts/tree/master/scheduled_shutdown) | [tdchua](https://github.com/tdchua) |
+| [discord_chat](https://github.com/adityaarakeri/super-scripts/tree/master/discord_chat) | [LiTO773](https://github.com/LiTO773) |
+| [indeed_scrapper](https://github.com/adityaarakeri/super-scripts/tree/master/indeed_scrapper) | [Adnan Muhib](https://github.com/AdnanMuhib) |
+| [tambola_ticket_generator](https://github.com/adityaarakeri/super-scripts/tree/master/Tambola_ticket_generator) | [Synster](https://github.com/Synster) |
+| [youtube_playlist_to_mp3](https://github.com/adityaarakeri/super-scripts/tree/master/youtube_playlist_to_mp3) | [zealberth](https://github.com/zealberth) |
 
 ## Contribuition Guidelines
 - Make a **separate folder** for your script.
