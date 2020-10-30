@@ -1,10 +1,9 @@
 # Super Awesome Scripts 😎
 
-
 ## What's in this repo?
 A list of super awesome scripts which help automate the boring tasks.
 
-## So far added 💃💃
+## Contributions
 | Script | Contributor|
 |--|--|
 | [Ad_Change_Check](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Ad_Change_Check) | [jscooksey](https://github.com/jscooksey) |
