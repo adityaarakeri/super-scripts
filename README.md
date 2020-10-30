@@ -6,6 +6,8 @@ A list of super awesome scripts which help automate the boring tasks.
 ## Contributions
 | Script | Contributor|
 |--|--|
+| [File_Encrypt_Decrypt](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/File_Encrypt_Decrypt) | [Adi](https://github.com/adityaarakeri) |
+| [Git_Email_Change](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Git_Email_Change) | [Adi](https://github.com/adityaarakeri) |
 | [Ad_Change_Check](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Ad_Change_Check) | [jscooksey](https://github.com/jscooksey) |
 | [App_Opener](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/App_Opener) | [U-ways](https://github.com/U-ways) |
 | [Arch_Linux](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Arch_Linux) | [crouther](https://github.com/crouther) |
@@ -15,11 +17,9 @@ A list of super awesome scripts which help automate the boring tasks.
 | [Create_Whatsapp_Group](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Create_Whatsapp_Group) | [Dinesh Ch](https://github.com/chdinesh1089) |
 | [Discord_Chat](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Discord_Chat) | [LiTO773](https://github.com/LiTO773) |
 | [Dot_Files](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Dot_Files) | [2KAbhishek](https://github.com/2KAbhishek) |
-| [File_Encrypt_Decrypt](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/File_Encrypt_Decrypt) | [Adi](https://github.com/adityaarakeri) |
 | [File_Finder](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/File_Finder) | [poszy](https://github.com/poszy) |
 | [File_Organizer](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/File_Organizer) | [alifalfa73](https://github.com/AlifAlfa73) |
 | [Folder_Autosync](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Folder_Autosync) | [szhou42](https://github.com/szhou42) |
-| [Git_Email_Change](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Git_Email_Change) | [Adi](https://github.com/adityaarakeri) |
 | [Go_Binary_Compiler](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Go_Binary_Compiler) | [KwanJunWen](https://github.com/KwanJunWen) |
 | [Indeed_Scrapper](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Indeed_Scrapper) | [Adnan Muhib](https://github.com/AdnanMuhib) |
 | [Linux_Free_Up_Space](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Linux_Free_Up_Space) | [V Patil](https://github.com/vpatiltech) |
@@ -43,22 +43,4 @@ A list of super awesome scripts which help automate the boring tasks.
 
 
 ## Contribution Guidelines
-- Create a **separate folder** for your script inside the [scripts](#) folder.
-- The script can be in any language.
-
-- Script and folder naming convention (Only use underscore):
-	- :x: Script Name
-	- :x: Folder-Name
-	- :x: folder_name
-	- :heavy_check_mark: Script_Name
-	- :heavy_check_mark: Folder_Name
-
-- The folder should contain the following:
-	- Main Script
-	- Supporting files for the script
-	- A separate `README.md` file with proper documentation.
-
-## Adding your Project to the List of Scripts
-
-- Please feel free to add your project to the list of scripts. They have been arranged in alphabetical order     according to script folder name.
-- Make sure the link to your script is working.
+see [CONTRUBUTING.md](https://github.com/adityaarakeri/super-scripts/blob/master/CONTRIBUTING.md)

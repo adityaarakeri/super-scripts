@@ -1,8 +1,20 @@
 # Contributing Guidelines
 
 ## Folders and Files
-- Please make sure you create a seperate folder for your script
-- Each folder needs to have the script and a detailed readme of what the script would do
+- Create a **separate folder** for your script inside the [scripts](#) folder.
+- The script can be in any language.
+- Script and folder naming convention (Only use underscore):
+	- :x: Script Name
+	- :x: Folder-Name
+	- :x: folder_name
+	- :heavy_check_mark: Script_Name
+	- :heavy_check_mark: Folder_Name
+- The folder should contain the following:
+	- Main Script
+	- Supporting files for the script
+	- A separate `README.md` file with proper documentation.
+- Please feel free to add your project to the list of scripts. They have been arranged in alphabetical order according to script folder name.
+- Make sure the link to your script is working.
 - Please do not add any binary or executable files
 - For node projects, please do not upload `node_modules`
 - For python projects, please do not upload dependencies, use requirements.txt or a Pipfile to manage dependencies
