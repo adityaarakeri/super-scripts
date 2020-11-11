@@ -29,4 +29,10 @@ Paste it in the ```channel_id``` variable at line 24.
 Pretty obvious, the name of the channel you want to track, set the value for that at line 25.
 
 
+## External modules required
+- win10toast
+- pyttsx3
+
+Run the command ```pip install -r requirements.txt``` to install all these dependencies.
+
 You are good to go!
