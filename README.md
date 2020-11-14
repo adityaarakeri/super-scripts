@@ -40,6 +40,7 @@ A list of super awesome scripts which help automate the boring tasks.
 | [Wifi_To_Eth](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Wifi_To_Eth) | [crouther](https://github.com/crouther) |
 | [Video_Length_Calculator](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Video_Length_Calculator) | [ali-abz](https://github.com/ali-abz) |
 | [Youtube_Playlist_To_Mp3](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Youtube_Playlist_To_Mp3) | [zealberth](https://github.com/zealberth) |
+|[Youtube_Channel_Tracker](https://github.com/adityaarakeri/super-scripts/tree/master/scripts/Youtube_Channel_Tracker)|[Shravan-1908](https://github.com/Shravan-1908)|
 
 
 ## Contribution Guidelines
