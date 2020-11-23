@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript">
+        document.getElementById("fileSelect").onclick = function() {
+            alert("Hello");
+        }
+    </script>
+    <style type="text/css">
+       #fileSelect{
+           display: none;
+       }
+    </style>
+</head>
+<body>
+<input id="fileSelect" type="file" onchange="fileSelectionCompleted(this)"/>
+<a href="#" id="loadImg" onclick="loadImage()">Load image</a>
+<img id="img1" style="width: 300px; height: 230px" src="" alt="Selected image"/>
+</body>
+</html>
